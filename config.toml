@@ -1,0 +1,91 @@
+baseURL = "https://houseabsolute.com/"
+title = "Dave Rolsky"
+
+theme = "hugo-coder"
+
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+[params]
+    author = "Dave Rolsky"
+    description = "Dave Rolsky's personal website"
+    info = "Resume and Slides"
+    footercontent = '<br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="margin-top: 0.5em" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.'
+
+    dateformat = "January 2, 2006"
+
+    hideFooter = false
+    hideCredits = false
+    hideCopyright = false
+    since = 2007
+
+    rtl = false
+
+    colorscheme = "auto"
+
+    enableTwemoji = false
+
+    custom_css = ["houseabsolute.css"]
+
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github"
+    weight = 1
+    url = "https://github.com/houseabsolute/"
+[[params.social]]
+    name = "Email"
+    icon = "fa fa-envelope"
+    weight = 2
+    url = "mailto:autarch@urth.org"
+
+[languages]
+    [languages.en]
+        languagename = "English"
+
+        [languages.en.menu]
+            [[languages.en.menu.main]]
+            name = "Home"
+            weight = 1
+            url = "/"
+
+            [[languages.en.menu.main]]
+            name = "Resume"
+            weight = 2
+            url = "/resume/"
+
+            [[languages.en.menu.main]]
+            name = "Slides"
+            weight = 3
+            url = "/presentation-slides/"
+
+# see https://gohugo.io/getting-started/configuration-markup
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = true
+    hl_Lines = ""
+    lineAnchors = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = true
+    style = "vs"
+    tabWidth = 4
+  [markup.tableOfContents]
+    startLevel = 1
+  [markup.goldmark.extensions]
+    definitionList = true
+    footnote = true
+    linkify = true
+    strikethrough = true
+    table = true
+    taskList = true
+    typographer = true
+  [markup.goldmark.parser]
+    attribute = true
+    autoHeadingID = true
+    autoHeadingIDType = "github"
+  [markup.goldmark.renderer]
+    unsafe = true
