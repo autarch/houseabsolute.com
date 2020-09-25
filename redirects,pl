@@ -1,0 +1,24 @@
+#!/usr/bin/env perl
+
+use v5.30;
+
+my @p = qw(
+    azure-ci
+    tidy-all-the-things
+    technical-hiring
+    test-class-moose
+    technical-hiring
+    test-class-moose
+    dzil-and-my-bundle
+    stepford
+    perl-unicode-basics
+    intro-to-oo
+    a-date-with-perl
+    markdent
+    perl6-basic-oo
+);
+
+
+for my $p (@p) {
+    say "/presentations/github/$p\thttps://presentations.houseabsolute.com/$p/";
+}
