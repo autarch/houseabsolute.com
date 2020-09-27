@@ -13,12 +13,12 @@ url: /resume/
 
 ## The Highlights
 
-  * **Team lead** capable of providing technical leadership for a team, setting technical standards, shaping the development workflow, and providing mentoring for other staff.
-  * Able to **gather requirements** and communicate clearly about technical problems with all teams in an organization.
-  * A proven **track record of [hiring](https://blog.urth.org/2019/07/11/a-technical-hiring-process-revisited/)** excellent developers.
-  * Author of Perl core **documentation** pages [perlootut][4] and [perlobj][5], and author of all of the [Moose documentation][3].
-  * Co-author of two O'Reilly books.
-  * **Prolific FOSS author**, including Perl's [DateTime.pm][1] and [many other Perl modules][2], as well as [a variety of projects][7] in Rust and Golang.
+* **Team lead** capable of providing technical leadership for a team, setting technical standards, shaping the development workflow, and providing mentoring for other staff.
+* Able to **gather requirements** and communicate clearly about technical problems with all teams in an organization.
+* A proven **track record of [hiring](https://blog.urth.org/2019/07/11/a-technical-hiring-process-revisited/)** excellent developers.
+* Author of Perl core **documentation** pages [perlootut][4] and [perlobj][5], and author of all of the [Moose documentation][3].
+* Co-author of two O'Reilly books.
+* **Prolific FOSS author**, including Perl's [DateTime.pm][1] and [many other Perl modules][2], as well as [a variety of projects][7] in Rust and Golang.
 
 I've been working as a professional software developer since 1998, starting with Perl, and more recently focused on Go, with some JS and C in there. There's also been lots of SQL, webapps, REST APIs, and more along the way.
 
@@ -30,9 +30,9 @@ I care greatly about the development process. Getting clear requirements, breaki
 
 ### Quick Links {.resume-sub-heading}
 
-  * [My GitHub profile][6], but a lot of my code lives in the [houseabsolute organization][7] to make collaboration easier.
-  * [Things I've uploaded to CPAN][2]
-  * [House Absolute(ly) Pointless][8], my (mostly) technical blog
+* [My GitHub profile][6], but a lot of my code lives in the [houseabsolute organization][7] to make collaboration easier.
+* [Things I've uploaded to CPAN][2]
+* [House Absolute(ly) Pointless][8], my (mostly) technical blog
 
 ## Experience {#experience}
 
@@ -100,10 +100,10 @@ Do you really want to read about my TA position in Music Theory or my first prog
 
 ### Articles {.resume-sub-heading}
 
-  * Perl Advent Calendar - [The Grinch's Well-Tested Second Attempt][19] - December 24, 2016
-  * Perl Advent Calendar - [Building Santa's Naughty and Nice List with Stepford][20] - December 16, 2015
-  * LWN.net - [Perl 5.16 and beyond][21] - March 22, 2012
-  * LWN.net - [The Perl 5 release process][22] - March 7, 2012
+* Perl Advent Calendar - [The Grinch's Well-Tested Second Attempt][19] - December 24, 2016
+* Perl Advent Calendar - [Building Santa's Naughty and Nice List with Stepford][20] - December 16, 2015
+* LWN.net - [Perl 5.16 and beyond][21] - March 22, 2012
+* LWN.net - [The Perl 5 release process][22] - March 7, 2012
 
 ### Perl Core Documentation {.resume-sub-heading}
 
@@ -123,40 +123,33 @@ This book, which I co-authored with Ken Williams, is available from [O'Reilly an
 
 ## Presentations {#speaking}
 
-I have presented at numerous conferences, including the O'Reilly Open Source Convention (OSCON), ApacheCon, and The Perl Conference (TPC) / Yet Another Perl Conference (YAPC) in North America, Europe, and Japan. These presentations have ranged from 5 minute lightning talks to all day intensive classes featuring extensive coding exercises as part of the class.
+I have presented at numerous conferences, including the O'Reilly Open Source Convention (OSCON), ApacheCon, and The Perl Conference (TPC) / Yet Another Perl Conference (YAPC) in North America, Europe, Japan, and Taiwan. These presentations have ranged from 5 minute lightning talks to all day intensive classes featuring extensive coding exercises as part of the class.
 
 See [my list of slides][30] and [class descriptions][31] for more details.
 
 ## FOSS Software {#foss}
 
-Besides contributing patches to hundreds of projects and libraries, I have created and/or maintained a number of FOSS projects. I'm a very prolific [CPAN][2] module author. A couple highlights:
+Besides contributing patches to hundreds of projects and libraries, I have created and/or maintained a number of FOSS projects. Here are a few highlights:
 
-### Go and Rust {.resume-sub-heading}
+* [detest](https://pkg.go.dev/github.com/houseabsolute/detest) is a test assertion library for **Go**.
+* [omegasort](https://github.com/houseabsolute/omegasort) is a CLI tool for sorting text files written in **Go**.
+* [precious](https://github.com/houseabsolute/precious) is a meta-linting code quality tool (a tool to run many linters and prettifiers) in **Rust**.
+* I kicked off the **Perl DateTime Project** in the early 2000s, which developed a comprehensive suite of inter-operating Perl modules for dealing with dates and times. Distributions in the DateTime suite are under the [DateTime][33] namespace on CPAN
 
-The [detest](https://pkg.go.dev/github.com/houseabsolute/detest) package is a a test assertion library for Go. I also wrote [catalauncher](https://github.com/houseabsolute/catalauncher), a CLI for launching the open source game Cataclysm: Dark Days Ahead, in a Docker container.
-
-I wrote a meta-linting code quality tool (a tool to run many linters and prettifiers) called [precious](https://github.com/houseabsolute/precious) in Rust.
-
-### Moose {.resume-sub-heading}
-
-I became part of the [Moose][32] core development team starting in 2008, and have contributed a lot of code to this project. I have also written a number of [Moose extensions][2].
-
-### The Perl DateTime Project {.resume-sub-heading}
-
-This is a project I began, and still lead, which has developed a comprehensive suite of inter-operating Perl modules for dealing with dates and times. Modules in the DateTime suite are under the [DateTime][33] namespace on CPAN.
+See my [houseabsolute GitHub organization](https://github.com/houseabsolute?type=source) for the vast majority of my projects.
 
 ## Other Skills
 
 It's hard to jam everything I've ever done into a list of jobs and projects. Here's a list of other things I'd be happy to talk about in interviews:
 
-  * SQL, PL/pgSQL, and Postgres extensions.
-  * Date and time standards.
-  * Database schema design.
-  * Server daemons including Apache, nginx, Postfix, etc. I'm not much of a sysadmin, but I've set many of these things up on my personal servers and development machines.
-  * HTML, CSS (including Less & Sass), Bootstrap, JavaScript, and React.
-  * OO design.
-  * I18N and L10N.
-  * Email parsing and generation.
+* SQL, PL/pgSQL, and Postgres extensions.
+* Date and time standards.
+* Database schema design.
+* Server daemons including Apache, nginx, Postfix, etc. I'm not much of a sysadmin, but I've set many of these things up on my personal servers and development machines.
+* HTML, CSS (including Less & Sass), Bootstrap, JavaScript, and React.
+* OO design.
+* I18N and L10N.
+* Email parsing and generation.
 
 ## Education
 
