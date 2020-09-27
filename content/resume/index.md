@@ -18,7 +18,7 @@ url: /resume/
 * A proven **track record of [hiring](https://blog.urth.org/2019/07/11/a-technical-hiring-process-revisited/)** excellent developers.
 * Author of Perl core **documentation** pages [perlootut][4] and [perlobj][5], and author of all of the [Moose documentation][3].
 * Co-author of two O'Reilly books.
-* **Prolific FOSS author**, including Perl's [DateTime.pm][1] and [many other Perl modules][2], as well as [a variety of projects][7] in Rust and Golang.
+* **Prolific FOSS author**, including Perl's [DateTime.pm][1] and [many other Perl modules][2], as well as [a variety of projects][7] in Rust and Go.
 
 I've been working as a professional software developer since 1998, starting with Perl, and more recently focused on Go, with some JS and C in there. There's also been lots of SQL, webapps, REST APIs, and more along the way.
 
@@ -44,7 +44,7 @@ When I began at ActiveState, I was the Team Lead for the Languages Team, which p
 
 As the new Team Lead, I helped the team improve our workflow by introducing **code review** and an **ordered backlog** of work. I also worked with the rest of the company to **spec future work** for customers.
 
-After we began work on the [ActiveState Platform](https://platform.activestate.com/), we reorganized and I became the Team Lead for the Platform Builder team. We developed several of the key **backend services** for the platform, including the **REST API** for our entire database of packages. This was done using **Golang**, **Swagger**, **Postgres**, and **Kafka**. All of our services run in **Docker** containers on **Kubernetes**. We also developed the first version of the service that handled requests for builds across all platforms.
+After we began work on the [ActiveState Platform](https://platform.activestate.com/), we reorganized and I became the Team Lead for the Platform Builder team. We developed several of the key **backend services** for the platform, including the **REST API** for our entire database of packages. This was done using **Go**, **Swagger**, **Postgres**, and **Kafka**. All of our services run in **Docker** containers on **Kubernetes**. We also developed the first version of the service that handled requests for builds across all platforms.
 
 Since our services form the backbone of the ActiveState Platform, every other technical team in the company is a customer for our services. I've **worked closely with these teams and Product Management** to design our APIs, **plan changes and rollouts**, and address bugs and performance issues that affect the Platform. I also work closely with the CTO, Director of Engineering, and Product to do quarterly planning, where we define our OKRs and KPIs for my team, as well as determine which projects to prioritize based on customer and company needs.
 
