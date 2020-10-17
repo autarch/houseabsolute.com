@@ -66,7 +66,7 @@ I helped define and document the [MaxMind DB file format][13], including writing
 
 To help improve developer productivity, I developed and extended tools for our **development environment**, including **Git** hooks, `Perl::Critic` policies, and `Code::TidyAll`, a multi-language linting and tidying tool.
 
-I led all **hiring** for technical staff, growing the engineering team from three to fifteen, including front-end and back-end developers, a sysadmin, and QA engineers. I developed the **resume screening and interview process** used for all of these hires.
+As Team Lead, I led all **hiring** for technical staff, growing the engineering team from three to fifteen, including front-end and back-end developers, a sysadmin, and QA engineers. I also developed the **resume screening and interview process** used for all of these hires.
 
 ### [Thomson Reuters][16] {.resume-sub-heading}
 
