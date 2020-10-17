@@ -14,13 +14,13 @@ url: /resume/
 ## The Highlights
 
 * **Team lead** capable of providing technical leadership for a team, setting technical standards, shaping the development workflow, and providing mentoring for other staff.
-* Able to **gather requirements** and communicate clearly about technical problems with all teams in an organization.
+* Able to **gather requirements** and communicate clearly about technical problems with all parts of an organization.
 * A proven **track record of [hiring](https://blog.urth.org/2019/07/11/a-technical-hiring-process-revisited/)** excellent developers.
 * Author of Perl core **documentation** pages [perlootut][4] and [perlobj][5], and author of all of the [Moose documentation][3].
 * Co-author of two O'Reilly books.
 * **Prolific FOSS author**, including Perl's [DateTime.pm][1] and [many other Perl modules][2], as well as [a variety of projects][7] in Rust and Go.
 
-I've been working as a professional software developer since 1998, starting with Perl, and more recently focused on Go, with some JS and C in there. There's also been lots of SQL, webapps, REST APIs, and more along the way.
+I've been working as a professional software developer since 1998, starting with Perl, and more recently focused on Go, with some JS and C in there. There's also been SQL, webapps, REST APIs, and more along the way.
 
 I enjoy solving problems for humans. This means more than just "making it go", it also means really understanding the needs of your users. I also have a great interest in data. Solid data representation and handling is the key to building powerful, flexible applications.
 
