@@ -24,7 +24,7 @@ I've been working as a professional software developer since 1998, starting with
 
 I enjoy solving problems for humans. This means more than just "making it go", it also means really understanding the needs of your users. I also have a great interest in data. Solid data representation and handling is the key to building powerful, flexible applications.
 
-Over the years, I've created or contributed to hundreds of free software projects and libraries. I've also written extensive technical documentation, articles, co-written two books, and presented at many conferences, including teaching two all-day classes.
+Over the years, I've created or contributed to hundreds of free software projects and libraries. I've also written extensive technical documentation and articles, co-written two books, and presented at many conferences, including teaching two all-day classes.
 
 I care greatly about the development process. Getting clear requirements, breaking work up into small pieces, automated testing, good deployment tools, QA, bug tracking, source control; all of these are crucial to building quality software. Why build something that works if it doesn't do what your users want, or if you can't maintain it?. Why fix a bug if you reintroduce it in the next release? Software should provide value to users and get better over time, not worse.
 
