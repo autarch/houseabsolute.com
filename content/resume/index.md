@@ -134,6 +134,7 @@ Besides contributing patches to hundreds of projects and libraries, I have creat
 * [detest](https://pkg.go.dev/github.com/houseabsolute/detest) is a test assertion library for **Go**.
 * [omegasort](https://github.com/houseabsolute/omegasort) is a CLI tool for sorting text files written in **Go**.
 * [precious](https://github.com/houseabsolute/precious) is a meta-linting code quality tool (a tool to run many linters and prettifiers) in **Rust**.
+* [ubi](https://github.com/houseabsolute/ubi) is a tool to install single file binaries from GitHub releases, in **Rust**.
 * I kicked off the **Perl DateTime Project** in the early 2000s, which developed a comprehensive suite of inter-operating Perl modules for dealing with dates and times. Distributions in the DateTime suite are under the [DateTime][33] namespace on CPAN
 
 See my [houseabsolute GitHub organization](https://github.com/houseabsolute?type=source) for the vast majority of my projects.
