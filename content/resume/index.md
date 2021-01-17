@@ -142,10 +142,12 @@ See my [houseabsolute GitHub organization](https://github.com/houseabsolute?type
 
 It's hard to jam everything I've ever done into a list of jobs and projects. Here's a list of other things I'd be happy to talk about in interviews:
 
+* CI systems, including GitHub Actions, CircleCI, Azure Pipelines, and others.
+* Rust, it's super fun but I've yet to use it for paid work.
 * SQL, PL/pgSQL, and Postgres extensions.
 * Date and time standards.
 * Database schema design.
-* Server daemons including Apache, nginx, Postfix, etc. I'm not much of a sysadmin, but I've set many of these things up on my personal servers and development machines.
+* Server daemons including Apache, nginx, Postfix, etc.
 * HTML, CSS (including Less & Sass), Bootstrap, JavaScript, and React.
 * OO design.
 * I18N and L10N.
