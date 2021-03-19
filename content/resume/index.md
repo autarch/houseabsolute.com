@@ -16,6 +16,7 @@ url: /resume/
 * **Team lead** capable of providing technical leadership for a team, setting technical standards, shaping the development workflow, and providing mentoring for other staff.
 * Able to **gather requirements** and communicate clearly about technical problems with all parts of an organization.
 * A proven **track record of [hiring](https://blog.urth.org/2019/07/11/a-technical-hiring-process-revisited/)** excellent developers.
+* Creator of several handy [utilities](https://github.com/houseabsolute/precious) in [Rust](https://github.com/houseabsolute/ubi) and [Go](https://github.com/houseabsolute/omegasort).
 * Author of Perl core **documentation** pages [perlootut][4] and [perlobj][5], and author of much of the [documentation for Moose][3], a Perl OO framework.
 * Co-author of two O'Reilly books.
 * **Prolific FOSS author**, including Perl's [DateTime.pm][1] and [many other Perl modules][2], as well as [a variety of projects][7] in Rust and Go.
