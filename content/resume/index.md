@@ -9,6 +9,7 @@ url: /resume/
   <ul>
     <li><a href="mailto:dave@urth.org">dave@urth.org</a></li>
     <li>Minneapolis, MN (no to relocation, yes to some travel)</li>
+  </ul>
 </div>
 
 ## The Highlights
