@@ -12,6 +12,14 @@ url: /resume/
   </ul>
 </div>
 
+## Quick Links
+
+* [My GitHub <i class="fab fa-github" aria-hidden="true"></i> profile][6], but
+  a lot of my code lives in the [houseabsolute organization][7] to make
+  collaboration easier.
+* [Things I've uploaded to CPAN][2]
+* [House Absolute(ly) Pointless][8], my (mostly) technical blog
+
 ## The Highlights
 
 * **Team lead** capable of providing technical leadership for a team, setting
@@ -53,12 +61,6 @@ software. Why build something that works if it doesn't do what your users
 want, or if you can't maintain it?. Why fix a bug if you reintroduce it in the
 next release? Software should provide value to users and get better over time,
 not worse.
-
-### Quick Links {.resume-sub-heading}
-
-* [My GitHub profile][6], but a lot of my code lives in the [houseabsolute organization][7] to make collaboration easier.
-* [Things I've uploaded to CPAN][2]
-* [House Absolute(ly) Pointless][8], my (mostly) technical blog
 
 ## Experience {#experience}
 
