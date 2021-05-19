@@ -36,7 +36,7 @@ defaultcontentlanguage = "en"
     name = "Email"
     icon = "fa fa-envelope"
     weight = 2
-    url = "mailto:autarch@urth.org"
+    url = "mailto:dave@urth.org"
 
 [languages]
     [languages.en]
