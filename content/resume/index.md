@@ -76,7 +76,7 @@ macOS, and several big iron systems.
 
 As the new Team Lead, I helped the team improve our workflow by introducing
 **code review** and an **ordered backlog** of work. I also worked with the
-rest of the company to **spec future work** for customers.
+rest of the company to **define future work**.
 
 After we began work on the [ActiveState
 Platform](https://platform.activestate.com/), we reorganized and I became the
