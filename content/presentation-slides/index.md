@@ -9,13 +9,13 @@ Slides for my conference presentations are available here.
 * [Introduction to Go][3] - See the linked GitHub repo for instructions on
   downloading and viewing the slides. They require the Go `present` tool to
   view.
+* [Generating Rust from C with Perl][17]
 * [Continuous Integration for Perl with Azure Pipelines][4] - covers [my
   ci-perl-helpers project][5] and also talks about general Azure Pipelines
   features
-* [Tidy All the Things][6] - A presentation on [Tidyall][7]
 * [Make Your Technical Hiring Process Suck at Least 20% Less][8]
-* [Classy Testing with Test::Class::Moose][9]
 * [Dist::Zilla and My Bundle][10]
+* [Classy Testing with Test::Class::Moose][9]
 * [Stepford, a Thing Sort of Like Make][11]
 * [Basics of Unicode in Perl][12] - I made this to present to my co-workers at
   MaxMind. It's never been given at a conference.
@@ -23,6 +23,9 @@ Slides for my conference presentations are available here.
 * [A Date with Perl][14] - I've also called this Dates, Times, Perl, and You
   in the past
 * [Markdent: Event-Driven Markdown Parsing][15]
+* [Tidy All the Things][6] - A presentation on [Tidyall][7], which I no longer
+  recommend using. [Check out
+  precious](https://github.com/houseabsolute/precious) instead.
 * [Basic OO in Perl 6][16]
 * [Introduction to Moose][2]
 
@@ -41,3 +44,4 @@ Slides for my conference presentations are available here.
  [14]: https://presentations.houseabsolute.com/a-date-with-perl/
  [15]: https://presentations.houseabsolute.com/markdent/
  [16]: https://presentations.houseabsolute.com/perl6-basic-oo/
+ [17]: https://presentations.houseabsolute.com/rust-from-c-with-perl/
