@@ -5,3 +5,8 @@ h2 {
 h3.resume-sub-heading {
     margin: 0;
 }
+
+/* For some reason the theme sets all <a> tags to font weight of 300. */
+a {
+    font-weight: inherit;
+}
