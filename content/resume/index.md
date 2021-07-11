@@ -83,9 +83,10 @@ Platform](https://platform.activestate.com/), we reorganized and I became the
 Team Lead for the Platform Builder team. We developed several of the key
 **backend services** for the platform, including the **REST API** for our
 entire database of packages. This was done using **Go**, **Swagger**,
-**Postgres**, and **Kafka**. All of our services run in **Docker** containers
-on **Kubernetes**. We also developed the first version of the service that
-handled requests for builds across all platforms.
+**Postgres**, and **Kafka**. All of our services run on **AWS** using **RDS**
+for the database and **Docker** containers on **Kubernetes** for services and
+jobs. We also developed the first version of the service that handled requests
+for builds across all platforms.
 
 Since our services form the backbone of the ActiveState Platform, every other
 technical team in the company is a customer for our services. I've **worked
