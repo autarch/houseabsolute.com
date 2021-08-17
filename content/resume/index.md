@@ -14,19 +14,18 @@ url: /resume/
 
 ## Quick Links
 
-* [My GitHub <i class="fab fa-github" aria-hidden="true"></i> profile][6], but
-  a lot of my code lives in the [houseabsolute organization][7] to make
-  collaboration easier.
-* [Things I've uploaded to CPAN][2]
+* [My GitHub profile <i class="fab fa-github" aria-hidden="true"></i>][6], but
+  most of my code lives in the [houseabsolute organization][7] for easier
+  collaboration.
 * [House Absolute(ly) Pointless][8], my (mostly) technical blog
 
 ## The Highlights
 
-* **Team lead** capable of providing technical leadership for a team, setting
-  technical standards, shaping the development workflow, and providing
-  mentoring for other staff.
-* Able to **gather requirements** and communicate clearly about technical
-  problems with all parts of an organization.
+* **Team lead** capable of providing technical leadership for a team, shaping
+  the development workflow, providing mentoring for other staff, hiring, and
+  team management.
+* Able to **gather requirements** and **communicate clearly about technical
+  problems**.
 * A proven **track record of
   [hiring](https://blog.urth.org/2019/07/11/a-technical-hiring-process-revisited/)**
   excellent developers.
@@ -37,12 +36,12 @@ url: /resume/
 * Author of Perl core **documentation** pages [perlootut][4] and [perlobj][5],
   and author of much of the [documentation for Moose][3], a Perl OO framework.
 * Co-author of two O'Reilly books.
-* **Prolific FOSS author**, including Perl's [DateTime.pm][1] and [many other
-  Perl modules][2], as well as [a variety of projects][7] in Rust and Go.
+* **Prolific FOSS author**, as [a variety of projects][7] in Rust and Go as
+  well as Perl's [DateTime.pm][1] library and [many other Perl modules][2].
 
 I've been working as a professional software developer since 1998, starting
 with Perl, and more recently focused on Go, with some JS and C in
-there. There's also been SQL, webapps, REST APIs, and more along the way.
+there. I've also worked with SQL, webapps, REST APIs, and more.
 
 I enjoy solving problems for humans. This means more than just "making it go",
 it also means really understanding the needs of your users. I also have a
@@ -70,18 +69,17 @@ not worse.
 
 When I began at ActiveState, I was the Team Lead for the Languages Team, which
 produced binary builds of ActivePerl, ActivePython, and ActiveTcl for our
-customers. This was done using a build system written in Perl that built all
-the languages on a variety of operating systems, including Linux, Windows,
-macOS, and several big iron systems.
+customers. Builds used a system written in Perl that built all the languages
+on a variety of operating systems, including Linux, Windows, macOS, and
+several big iron systems.
 
 As the new Team Lead, I helped the team improve our workflow by introducing
 **code review** and an **ordered backlog** of work. I also worked with the
 rest of the company to **define future work**.
 
 After we began work on the [ActiveState
-Platform](https://platform.activestate.com/), we reorganized and I became the
-Team Lead for the Platform Builder team. We developed several of the key
-**backend services** for the platform, including the **REST API** for our
+Platform](https://platform.activestate.com/), my team developed several of the
+key **backend services** for the platform, including the **REST API** for our
 entire database of packages. This was done using **Go**, **Swagger**,
 **Postgres**, and **Kafka**. All of our services run on **AWS** using **RDS**
 for the database and **Docker** containers on **Kubernetes** for services and
@@ -91,11 +89,17 @@ for builds across all platforms.
 Since our services form the backbone of the ActiveState Platform, every other
 technical team in the company is a customer for our services. I've **worked
 closely with these other teams and Product Management** to **design our
-APIs**, **plan changes and rollouts**, and address bugs and performance issues
-that affect the Platform. I also work closely with the CTO, Director of
-Engineering, and Product team to do quarterly planning. During this process we
-**define our OKRs and KPIs for my team**, as well as determine which projects
-to prioritize based on customer and company needs.
+APIs**, **write design docs**, **plan changes and rollouts**, and address bugs
+and performance issues that affect the Platform.
+
+I also work closely with the CTO, Director of Engineering, and Product team to
+do quarterly planning. During this process we **define my team's OKRs and
+KPIs**, as well as determine which projects to prioritize based on customer
+and company needs.
+
+In addition to my Team Lead responsibilities, I've also worked extensively on
+our **Engineering department documentation** and rewrote our FOSS
+usage/release policy.
 
 I've been a leader in our **technical hiring**, helping **define our hiring
 process for engineers**, as well as contributing to our **onboarding
@@ -148,12 +152,6 @@ screening and interview process** used for all of these hires.
 
 **Consulting Software Engineer, 11/2007 - 4/2011**
 
-At Thomson Reuters, I worked on integrating new data feeds with an existing
-database of corporate information, some of which included complex
-**internationalization** requirements. I also worked on infrastructure
-projects to make it possible to support per-project **Perl** module
-installations.
-
 ### [LiveText, Inc.][17] {.resume-sub-heading}
 
 **Senior Developer, 3/2007 - 11/2007**
@@ -166,13 +164,9 @@ installations.
 
 **Sole Proprietor, 2/2002 - 9/2004**
 
-### DoTheGood {.resume-sub-heading}
-
-**Lead Developer, 4/15/2001 - 1/22/2002**
-
 ### Various {.resume-sub-heading}
 
-**Too Old to List, 1995 - 2001**
+**Too Old to List, 1995 - 2002**
 
 Do you really want to read about my TA position in Music Theory or my first
 programming jobs?
@@ -215,12 +209,9 @@ available in an [online version][29].
 
 ## Presentations {#speaking}
 
-I have presented at numerous conferences, including the O'Reilly Open Source
-Convention (OSCON), ApacheCon, and The Perl and Raku Conference (TPRC) / Yet
-Another Perl Conference (YAPC) in North America, Europe, Japan, and
-Taiwan. These presentations have ranged from 5 minute lightning talks to all
-day intensive classes featuring extensive coding exercises as part of the
-class.
+I have presented at many conferences around the world. These presentations
+have ranged from 5 minute lightning talks to all day intensive classes
+featuring extensive coding exercises as part of the class.
 
 See [my list of slides][30] and [class descriptions][31] for more details.
 
@@ -258,9 +249,7 @@ interviews:
 * SQL, PL/pgSQL, and Postgres extensions.
 * Date and time standards.
 * Database schema design.
-* Server daemons including Apache, nginx, Postfix, etc.
 * HTML, CSS (including Less & Sass), Bootstrap, JavaScript, and React.
-* OO design.
 * I18N and L10N.
 * Email parsing and generation.
 
