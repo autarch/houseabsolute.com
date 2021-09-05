@@ -84,7 +84,7 @@ entire database of packages. This was done using **Go**, **Swagger**,
 **Postgres**, and **Kafka**. All of our services run on **AWS** using **RDS**
 for the database and **Docker** containers on **Kubernetes** for services and
 jobs. We also developed the first version of the service that handled requests
-for builds across all platforms.
+for builds across all operating systems.
 
 Since our services form the backbone of the ActiveState Platform, every other
 technical team in the company is a customer for our services. I've **worked
