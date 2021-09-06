@@ -22,8 +22,8 @@ url: /resume/
 ## The Highlights
 
 * **Team lead** capable of providing technical leadership for a team, shaping
-  the development workflow, providing mentoring for other staff, hiring, and
-  team management.
+  the development workflow, providing mentoring for other staff, and managing
+  a team.
 * Able to **gather requirements** and **communicate clearly about technical
   problems**.
 * A proven **track record of
