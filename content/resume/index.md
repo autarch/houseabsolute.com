@@ -36,7 +36,7 @@ url: /resume/
 * Author of Perl core **documentation** pages [perlootut][4] and [perlobj][5],
   and author of much of the [documentation for Moose][3], a Perl OO framework.
 * Co-author of two O'Reilly books.
-* **Prolific FOSS author**, as [a variety of projects][7] in Rust and Go as
+* **Prolific FOSS author**, of [a variety of projects][7] in Rust and Go as
   well as Perl's [DateTime.pm][1] library and [many other Perl modules][2].
 
 I've been working as a professional software developer since 1998, starting
