@@ -17,7 +17,7 @@ url: /resume/
 * [My GitHub profile <i class="fab fa-github" aria-hidden="true"></i>][6], but
   most of my code lives in the [houseabsolute organization][7] for easier
   collaboration.
-* [House Absolute(ly) Pointless][8], my (mostly) technical blog
+* [House Absolute(ly Pointless)][8], my (mostly) technical blog
 
 ## The Highlights
 
