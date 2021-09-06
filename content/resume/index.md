@@ -37,7 +37,7 @@ url: /resume/
   and author of much of the [documentation for Moose][3], a Perl OO framework.
 * Co-author of two O'Reilly books.
 * **Prolific FOSS author**, of [a variety of projects][7] in Rust and Go as
-  well as Perl's [DateTime.pm][1] library and [many other Perl modules][2].
+  well as Perl's [DateTime.pm][1] library and [many other Perl libraries][2].
 
 I've been working as a professional software developer since 1998, starting
 with Perl, and more recently focused on Go, with some JS and C in
@@ -126,7 +126,7 @@ with **TeamCity**. As our test suite grew I also worked on **benchmarking and
 optimizing** the test suite itself, bringing the run time form nearly an hour
 to about 15 minutes.
 
-One of the most interesting tools I created at MaxMind is a Perl module to
+One of the most interesting tools I created at MaxMind is a Perl library to
 implement a parallelizable **build system** called [Stepford][11]. It is
 similar to `make`, but with Perl classes as the main unit of work instead of
 processes. This system was then used to implement the entire build process for
@@ -136,7 +136,7 @@ I helped define and document the [MaxMind DB file format][13], including
 writing a comprehensive spec for it, as well as participating in the
 development of client libraries in **Perl (XS)**, Python, Java, C#, PHP, and
 JavaScript. I also created the **C** API for this format, [libmaxminddb][14],
-as well as the Perl module to write the format, [`MaxMind::DB::Writer`][15],
+as well as the Perl library to write the format, [`MaxMind::DB::Writer`][15],
 which is mostly written in C and XS.
 
 To help improve developer productivity, I developed and extended tools for our
@@ -230,9 +230,9 @@ highlights:
 * [ubi](https://github.com/houseabsolute/ubi) is a tool to install single file
   binaries from GitHub releases, in **Rust**.
 * I kicked off the **Perl DateTime Project** in the early 2000s, which
-  developed a comprehensive suite of inter-operating Perl modules for dealing
-  with dates and times. Distributions in the DateTime suite are under the
-  [DateTime][33] namespace on CPAN
+  developed a comprehensive suite of inter-operating Perl libraries for
+  dealing with dates and times. Distributions in the DateTime suite are under
+  the [DateTime][33] namespace on CPAN
 
 See my [houseabsolute GitHub
 organization](https://github.com/houseabsolute?type=source) for the vast
