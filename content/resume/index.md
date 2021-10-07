@@ -66,7 +66,7 @@ not worse.
 
 ### [ActiveState Software Inc.][9] {.resume-sub-heading}
 
-**Team Lead, Senior Software Engineer, 2/2017 - present**
+**Team Lead, Senior Software Engineer, 2/2017 - 10/2021**
 
 When I began at ActiveState, I was the Team Lead for the Languages Team, which
 produced binary builds of ActivePerl, ActivePython, and ActiveTcl for our
