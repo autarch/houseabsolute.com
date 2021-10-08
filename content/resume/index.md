@@ -88,21 +88,21 @@ jobs. We also developed the first version of the service that handled requests
 for builds across all operating systems.
 
 Since our services form the backbone of the ActiveState Platform, every other
-technical team in the company is a customer for our services. I've **worked
+technical team in the company was a customer for our services. I **worked
 closely with these other teams and Product Management** to **design our
 APIs**, **write design docs**, **plan changes and rollouts**, and address bugs
 and performance issues that affect the Platform.
 
-I also work closely with the CTO, Director of Engineering, and Product team to
-do quarterly planning. During this process we **define my team's OKRs and
+I also worked closely with the CTO, Director of Engineering, and Product team
+to do quarterly planning. During this process we **define my team's OKRs and
 KPIs**, as well as determine which projects to prioritize based on customer
 and company needs.
 
-In addition to my Team Lead responsibilities, I've also worked extensively on
-our **Engineering department documentation** and rewrote our FOSS
-usage/release policy.
+In addition to my Team Lead responsibilities, I also worked extensively on our
+**Engineering department documentation** and rewrote our FOSS usage/release
+policy.
 
-I've been a leader in our **technical hiring**, helping **define our hiring
+I was a leader in our **technical hiring**, helping **define our hiring
 process for engineers**, as well as contributing to our **onboarding
 process**.
 
