@@ -6,10 +6,9 @@ date: 2015-06-20T19:15:18+00:00
 url: /resume/
 ---
 <div class="web-only">
-  <ul>
-    <li><a href="mailto:dave@urth.org">dave@urth.org</a></li>
-    <li>Minneapolis, MN (no to relocation, yes to some travel)</li>
-  </ul>
+
+Contact me at [dave@urth.org]("mailto:dave@urth.org").
+
 </div>
 
 ## Quick Links
@@ -21,14 +20,17 @@ url: /resume/
 
 ## The Highlights
 
-* **Team lead** capable of providing technical leadership for a team, shaping
-  the development workflow, providing mentoring for other staff, and managing
-  a team.
+* **Team lead** and **Staff/Principal Engineer** with **over 20 years of
+  experience** capable of providing technical leadership, shaping the
+  development workflow, providing mentoring for other staff, hiring, and
+  managing teams.
 * Able to **gather requirements** and **communicate clearly about technical
   problems**.
 * A proven **track record of
   [hiring](https://blog.urth.org/2019/07/11/a-technical-hiring-process-revisited/)**
   excellent developers.
+* **Prolific FOSS author** of [a variety of projects][7] in Rust and Go as
+  well as Perl's [DateTime.pm][1] library and [many other Perl libraries][2].
 * Creator of several handy
   [utilities](https://github.com/houseabsolute/precious) in
   [Rust](https://github.com/houseabsolute/ubi) and
@@ -36,31 +38,32 @@ url: /resume/
 * Author of the Perl core **documentation** pages [perlootut][4] and
   [perlobj][5], and author of much of the [documentation for Moose][3], a Perl
   OO framework.
-* Co-author of two O'Reilly books.
-* **Prolific FOSS author** of [a variety of projects][7] in Rust and Go as
-  well as Perl's [DateTime.pm][1] library and [many other Perl libraries][2].
+* Co-author of two O'Reilly books way back when.
+* I live in Minneapolis, MN but **I am only available for remote work**,
+  regardless of where offices are located. **I am open to travel, but no more
+  than three times per year**.
 
 I've been working as a professional software developer since 1998, starting
-with Perl, and more recently focused on Go, with some JS and C in
-there. I've also worked with SQL, webapps, REST APIs, and more.
+with Perl, and more recently using mostly Go, with some JS and C in there over
+time. I've also worked with SQL, webapps, REST APIs, GraphQL, Docker, k8s,
+AWS, and more.
 
 I enjoy solving problems for humans. This means more than just "making it go",
 it also means really understanding the needs of your users. I also have a
-great interest in data. Solid data representation and handling is the key to
-building powerful, flexible applications.
+strong interest in data. Solid data models are the key to building powerful,
+flexible applications.
 
 Over the years, I've created or contributed to hundreds of free software
 projects and libraries. I've also written extensive technical documentation
 and articles, co-written two books, and presented at many conferences,
-including teaching two all-day classes.
+including teaching various all-day classes.
 
-I care greatly about the development process. Getting clear requirements,
-breaking work up into small pieces, automated testing, good deployment tools,
-QA, bug tracking, source control; all of these are crucial to building quality
-software. Why build something that works if it doesn't do what your users
-want, or if you can't maintain it?. Why fix a bug if you reintroduce it in the
-next release? Software should provide value to users and get better over time,
-not worse.
+I care greatly about the development process. Clear requirements, breaking
+work up into small pieces, issue tracking, automated testing, CI/CD, QA,
+source control; all of these are crucial to building quality software. Why
+build something that works if it doesn't do what your users want, or if you
+can't maintain it?. Why fix a bug if you reintroduce it in the next release?
+Software should provide value to users and get better over time, not worse.
 
 ## Experience {#experience}
 
@@ -82,25 +85,26 @@ After we began work on the [ActiveState
 Platform](https://platform.activestate.com/), my team developed several of the
 key **backend services** for the platform, including the **REST API** for our
 entire database of packages. This was done using **Go**, **Swagger**,
-**Postgres**, and **Kafka**. All of our services run on **AWS** using **RDS**
-for the database and **Docker** containers on **Kubernetes** for services and
+**Postgres**, and **Kafka**. All of our services ran on **AWS** using **RDS**
+for the database and **Docker** containers in **Kubernetes** for services and
 jobs. We also developed the first version of the service that handled requests
 for builds across all operating systems.
 
-Since our services form the backbone of the ActiveState Platform, every other
-technical team in the company was a customer for our services. I **worked
-closely with these other teams and Product Management** to **design our
-APIs**, **write design docs**, **plan changes and rollouts**, and address bugs
-and performance issues that affect the Platform.
+Since our services formed the backbone of the ActiveState Platform, every
+other technical team in the company was a customer for our services. I
+**worked closely with these other teams and Product Management** to **design
+our APIs**, **write design docs**, **plan changes and rollouts**, and address
+bugs and performance issues that affect the Platform. I also led **blame-free
+postmorterms** for outages and other severe incidents as needed.
 
-I also worked closely with the CTO, Director of Engineering, and Product team
-to do quarterly planning. During this process we **define my team's OKRs and
-KPIs**, as well as determine which projects to prioritize based on customer
-and company needs.
+For quarterly planning, I worked closely with the CTO, Director of
+Engineering, and Product team. During this process we **defined my team's OKRs
+and KPIs**, as well as determined which projects to prioritize based on
+customer and company needs.
 
 In addition to my Team Lead responsibilities, I also worked extensively on our
 **Engineering department documentation** and rewrote our FOSS usage/release
-policy.
+policy, working closely with the CTO and CEO.
 
 I was a leader in our **technical hiring**, helping **define our hiring
 process for engineers**, as well as contributing to our **onboarding
