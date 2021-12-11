@@ -54,8 +54,13 @@ defaultcontentlanguage = "en"
             url = "/resume/"
 
             [[languages.en.menu.main]]
-            name = "Slides"
+            name = "Support My FOSS Work"
             weight = 3
+            url = "/foss-donations/"
+
+            [[languages.en.menu.main]]
+            name = "Slides"
+            weight = 4
             url = "/presentation-slides/"
 
 # see https://gohugo.io/getting-started/configuration-markup
