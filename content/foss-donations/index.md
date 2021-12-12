@@ -10,6 +10,9 @@ Here's a handy button for doing that ...
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
+## Sponsor Me on GitHub
+
+I've set up [my GitHub profile for sponsorship](https://github.com/sponsors/autarch/) if you'd like to do that.
 
 ## Invoice
 
