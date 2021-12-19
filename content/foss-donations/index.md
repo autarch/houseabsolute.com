@@ -1,4 +1,4 @@
-# Support my FOSS work
+# Support Dave Rolsky's FOSS work
 
 Hi, you're here (I assume) because you want to give me some money in support of my FOSS work.
 
