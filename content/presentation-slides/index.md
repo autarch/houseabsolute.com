@@ -6,14 +6,30 @@ date: 2015-06-20T19:26:28+00:00
 ---
 Slides for my conference presentations are available here.
 
+Most of my newer slide decks have slides with very minimal content on
+them. **The interesting bits are in the presenter notes, which are accessible by
+pressing "s" while viewing the slides.**
+
 * [Introduction to Go][3] - See the linked GitHub repo for instructions on
   downloading and viewing the slides. They require the Go `present` tool to
   view.
 * [Generating Rust from C with Perl][17]
-* [Continuous Integration for Perl with Azure Pipelines][4] - covers [my
+* [Continuous Integration for Perl with Azure Pipelines][4] - This covers [my
   ci-perl-helpers project][5] and also talks about general Azure Pipelines
-  features
+  features.
 * [Make Your Technical Hiring Process Suck at Least 20% Less][8]
+  * My thinking on this has evolved a bit since I last gave this
+    presentation. I've written about this a few times on my blog:
+    * [A Technical Hiring Process
+      Revisited](https://blog.urth.org/2019/07/11/a-technical-hiring-process-revisited/) -
+      This is my latest thinking on hiring processes.
+    * [A Technical Hiring
+      Process](https://blog.urth.org/2017/07/14/a-technical-hiring-process/) -
+      This mostly matches the slides.
+    * [Tech Interviewer
+      Theory](https://blog.urth.org/2016/03/08/tech-interviewer-theory/) -
+      This is about interviews specifically, including what you can learn from
+      them and some questions to ask during technical interviews.
 * [Dist::Zilla and My Bundle][10]
 * [Classy Testing with Test::Class::Moose][9]
 * [Stepford, a Thing Sort of Like Make][11]
@@ -21,11 +37,12 @@ Slides for my conference presentations are available here.
   MaxMind. It's never been given at a conference.
 * [Intro to Object-Oriented Programming in Perl][13] (Perl 5)
 * [A Date with Perl][14] - I've also called this Dates, Times, Perl, and You
-  in the past
+  in the past.
 * [Markdent: Event-Driven Markdown Parsing][15]
-* [Tidy All the Things][6] - A presentation on [Tidyall][7], which I no longer
-  recommend using. [Check out
-  precious](https://github.com/houseabsolute/precious) instead.
+* [Tidy All the Things][6] - A presentation on [Tidyall][7], which [I no
+  longer recommend
+  using](https://blog.urth.org/2020/04/25/the-real-dirt-on-tidyall/). [Check
+  out precious](https://github.com/houseabsolute/precious) instead.
 * [Basic OO in Perl 6][16]
 * [Introduction to Moose][2]
 
