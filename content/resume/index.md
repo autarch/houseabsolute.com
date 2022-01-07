@@ -235,9 +235,9 @@ highlights:
 * [ubi](https://github.com/houseabsolute/ubi) is a tool to install single file
   binaries from GitHub releases, in **Rust**.
 * I kicked off the **Perl DateTime Project** in the early 2000s, which
-  developed a comprehensive suite of inter-operating Perl libraries for
-  dealing with dates and times. Distributions in the DateTime suite are under
-  the [DateTime][33] namespace on CPAN
+  developed a comprehensive suite of interoperating Perl libraries for dealing
+  with dates and times. Distributions in the DateTime suite are under the
+  [DateTime][33] namespace on CPAN
 
 See my [houseabsolute GitHub
 organization](https://github.com/houseabsolute?type=source) for the vast
