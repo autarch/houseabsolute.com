@@ -98,9 +98,8 @@ bugs and performance issues that affect the Platform. I also led **blame-free
 postmorterms** for outages and other severe incidents as needed.
 
 For quarterly planning, I worked with the CTO, Director of Engineering, and
-Product team. During this process we **defined my team's OKRs and KPIs**, as
-well as determined which projects to prioritize based on customer and company
-needs.
+Product team. During this process we **defined my team's OKRs and KPIs** and
+determined which projects to prioritize based on customer and company needs.
 
 In addition to my Team Lead responsibilities, I also worked extensively on our
 **Engineering department documentation** and rewrote our FOSS usage/release
