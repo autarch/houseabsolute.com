@@ -128,7 +128,7 @@ I wrote the first **unit tests** at the company and later worked on
 **integration tests** as well our **production simulation** tools. I also
 introduced **continuous integration**, initially with **Jenkins** and later
 with **TeamCity**. As our test suite grew I also worked on **benchmarking and
-optimizing** the test suite itself, bringing the run time form nearly an hour
+optimizing** the test suite itself, bringing the run time from nearly an hour
 to about 15 minutes.
 
 One of the most interesting tools I created at MaxMind is a Perl library to
