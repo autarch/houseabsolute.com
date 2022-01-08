@@ -97,14 +97,14 @@ our APIs**, **write design docs**, **plan changes and rollouts**, and address
 bugs and performance issues that affect the Platform. I also led **blame-free
 postmorterms** for outages and other severe incidents as needed.
 
-For quarterly planning, I worked closely with the CTO, Director of
-Engineering, and Product team. During this process we **defined my team's OKRs
-and KPIs**, as well as determined which projects to prioritize based on
-customer and company needs.
+For quarterly planning, I worked with the CTO, Director of Engineering, and
+Product team. During this process we **defined my team's OKRs and KPIs**, as
+well as determined which projects to prioritize based on customer and company
+needs.
 
 In addition to my Team Lead responsibilities, I also worked extensively on our
 **Engineering department documentation** and rewrote our FOSS usage/release
-policy, working closely with the CTO and CEO.
+policy, working directly with the CTO and CEO.
 
 I was a leader in our **technical hiring**, helping **define our hiring
 process for engineers**, as well as contributing to our **onboarding
