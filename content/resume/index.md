@@ -31,17 +31,10 @@ Contact me at [dave@urth.org](mailto:dave@urth.org).
   excellent developers.
 * **Prolific FOSS author** of [a variety of projects][7] in Rust and Go as
   well as Perl's [DateTime.pm][1] library and [many other Perl libraries][2].
-* Creator of several handy
-  [utilities](https://github.com/houseabsolute/precious) in
-  [Rust](https://github.com/houseabsolute/ubi) and
-  [Go](https://github.com/houseabsolute/omegasort).
-* Author of the Perl core **documentation** pages [perlootut][4] and
-  [perlobj][5], and author of much of the [documentation for Moose][3], a Perl
-  OO framework.
-* Co-author of two O'Reilly books way back when.
-* I live in Minneapolis, MN but **I am only available for remote work**,
-  regardless of where offices are located. **I am open to travel, but no more
-  than three times per year**.
+* Extensive experience with **technical writing and documentation**, including
+  as co-author of two O'Reilly books.
+* **Only available for remote work**, regardless of where offices are
+  located. **I am open to travel, but no more than three times per year**.
 
 I've been working as a professional software developer since 1998, starting
 with Perl, and more recently using mostly Go, with some JS and C in there over
@@ -218,7 +211,8 @@ I have presented at many conferences around the world. These presentations
 have ranged from 5-minute lightning talks to all-day intensive classes
 featuring extensive coding exercises as part of the class.
 
-See [my list of slides][30] and [class descriptions][31] for more details.
+See [my list of slides]({{% ref "/presentation-slides/index.md" %}}) and
+[class descriptions]({{% ref "/classes/index.md" %}}) for more details.
 
 ## FOSS Software {#foss}
 
@@ -302,8 +296,6 @@ Bachelor of Arts in Music
  [27]: http://www.oreilly.com/catalog/rtessentials/
  [28]: http://www.oreilly.com/catalog/perlhtmlmason/
  [29]: http://masonbook.houseabsolute.com/book/
- [30]: /presentation-slides/
- [31]: /classes/
  [32]: http://moose.perl.org/
  [33]: https://metacpan.org/search?q=datetime
  [34]: https://metacpan.org/release/Catalyst-Runtime
