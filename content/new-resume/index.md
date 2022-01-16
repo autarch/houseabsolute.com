@@ -12,10 +12,12 @@ Contact me at [dave@urth.org](mailto:dave@urth.org).
 
 ## Quick Links
 
-* [My GitHub profile <i class="fab fa-github" aria-hidden="true"></i>][6]
-* [The houseabsolute organization][7] contains most of my code for easier
-  collaboration.
-* [House Absolute(ly Pointless)][8], my (mostly) technical blog
+* [My GitHub profile <i class="fab fa-github"
+  aria-hidden="true"></i>](https://github.com/autarch/)
+* [The houseabsolute organization](https://github.com/houseabsolute/) contains
+  most of my code for easier collaboration.
+* [House Absolute(ly Pointless)](https://blog.urth.org/), my (mostly)
+  technical blog
 
 ## The Highlights
 
@@ -28,16 +30,17 @@ Contact me at [dave@urth.org](mailto:dave@urth.org).
 * A proven **track record of
   [hiring](https://blog.urth.org/2019/07/11/a-technical-hiring-process-revisited/)**
   excellent developers.
-* **Prolific FOSS author** of [a variety of projects][7] in Rust and Go as
-  well as Perl's [DateTime.pm][1] library and [many other Perl libraries][2].
+* **Prolific FOSS author** of [a variety of
+  projects](https://github.com/houseabsolute/) in Rust and Go as well as
+  Perl's [DateTime.pm](https://metacpan.org/pod/DateTime) library and [many
+  other Perl libraries](https://metacpan.org/author/DROLSKY).
 * Extensive experience with **technical writing and documentation**, including
   as co-author of two O'Reilly books.
-* **Only available for remote work**, regardless of where offices are
-  located.
+* **Only available for remote work**, regardless of where offices are located.
 
-## Experience {#experience}
+## Experience
 
-### [ActiveState Software Inc.][9] {.resume-sub-heading}
+### [ActiveState Software Inc.](https://www.activestate.com/) {.resume-sub-heading}
 
 **Team Lead, Senior Software Engineer, 2/2017 – 10/2021**
 
@@ -61,7 +64,7 @@ Contact me at [dave@urth.org](mailto:dave@urth.org).
 * Led **technical hiring** by helping **define our hiring process for
   engineers**, as well as contributing to our **onboarding process**.
 
-### [MaxMind, Inc.][10] {.resume-sub-heading}
+### [MaxMind, Inc.](https://www.maxmind.com/) {.resume-sub-heading}
 
 **Software Engineering Team Lead, 7/2011 – 1/2017**
 
@@ -78,14 +81,17 @@ Contact me at [dave@urth.org](mailto:dave@urth.org).
 * **Benchmarked and optimized** the test suite, bringing the run time from
   nearly an hour to about 15 minutes.
 * Created a a parallelizable **build system** to implement the entire build
-  process for our line of [GeoIP2 databases][12].
-* Helped define and document the [MaxMind DB file format][13], including
-  writing a comprehensive spec for it, as well as participating in the
-  development of client libraries in **Perl (XS)**, Python, Java, C#, PHP, and
-  JavaScript.
-* Created the **C** library for this file format, [libmaxminddb][14], as well
-  as the Perl library to write the format, [MaxMind::DB::Writer][15], mostly
-  written in C and XS.
+  process for our line of [GeoIP2
+  databases](https://dev.maxmind.com/geoip/geoip2/downloadable/).
+* Defined and documented the [MaxMind DB file
+  format](https://maxmind.github.io/MaxMind-DB/), including writing a
+  comprehensive spec for it, as well as participating in the development of
+  client libraries in **Perl (XS)**, Python, Java, C#, PHP, and JavaScript.
+* Created the **C** library for this file format,
+  [libmaxminddb](https://github.com/maxmind/libmaxminddb), as well as the Perl
+  library to write the format,
+  [MaxMind::DB::Writer](https://github.com/maxmind/MaxMind-DB-Writer-perl),
+  mostly written in C and XS.
 * Developed and extended tools for our **development environment**, including
   **Git** hooks, linters, and tidiers.
 * As Team Lead, I led all **hiring** for technical staff, growing the
@@ -94,15 +100,15 @@ Contact me at [dave@urth.org](mailto:dave@urth.org).
 * Created the **resume screening and interview process** used for all of these
   hires.
 
-### [Thomson Reuters][16] {.resume-sub-heading}
+### [Thomson Reuters](https://www.reuters.com/) {.resume-sub-heading}
 
 **Consulting Software Engineer, 11/2007 – 4/2011**
 
-### [LiveText, Inc.][17] {.resume-sub-heading}
+### [LiveText, Inc.](https://www.livetext.com/) {.resume-sub-heading}
 
 **Senior Developer, 3/2007 – 11/2007**
 
-### Socialtext, Inc. {.resume-sub-heading}
+### Socialtext, Inc.  {.resume-sub-heading}
 
 **Senior Developer - Database Lead, 9/2004 – 3/2007**
 
@@ -117,27 +123,33 @@ Contact me at [dave@urth.org](mailto:dave@urth.org).
 Do you really want to read about my TA position in Music Theory or my first
 programming jobs?
 
-## Publications {#publications}
+## Publications
 
 ### Articles {.resume-sub-heading}
 
-* Perl Advent Calendar - [The Grinch's Well-Tested Second Attempt][19] -
-  December 24, 2016
+* Perl Advent Calendar - [The Grinch's Well-Tested Second
+  Attempt](https://perladvent.org/2016/2016-12-24.html) - December 24, 2016
 * Perl Advent Calendar - [Building Santa's Naughty and Nice List with
-  Stepford][20] - December 16, 2015
-* LWN.net - [Perl 5.16 and beyond][21] - March 22, 2012
-* LWN.net - [The Perl 5 release process][22] - March 7, 2012
+  Stepford](https://perladvent.org/2015/2015-12-16.html) - December 16, 2015
+* LWN.net - [Perl 5.16 and beyond](https://lwn.net/Articles/487216/) - March
+  22, 2012
+* LWN.net - [The Perl 5 release process](https://lwn.net/Articles/485569/) -
+  March 7, 2012
 
 ### Perl Core Documentation {.resume-sub-heading}
 
-* Wrote [perlootut][4] from scratch and revised [perlobj][5] from the ground
-  up for the Perl 5.16.0 release in 2012.
+* Wrote [perlootut](https://perldoc.perl.org/perlootut.html) from scratch and
+  revised [perlobj](https://perldoc.perl.org/perlobj.html) from the ground up
+  for the Perl 5.16.0 release in 2012.
 * Made major edits to several other documents in the Perl core, including
-  [perlhack][23], [perlhacktut][24], [perlhacktips][25], and [perlsource][26].
+  [perlhack](https://perldoc.perl.org/perlhack.html),
+  [perlhacktut](https://perldoc.perl.org/perlhacktut.html),
+  [perlhacktips](https://perldoc.perl.org/perlhacktips.html), and
+  [perlsource](https://perldoc.perl.org/perlsource.html).
 
-### [Moose documentation][3] {.resume-sub-heading}
+### [Moose documentation](https://metacpan.org/release/Moose) {.resume-sub-heading}
 
-* In 2009, received a grant from The Perl Foundation to work on the
+* Received a grant from The Perl Foundation in 2009 to work on the
   documentation for Moose, an OO system for Perl.
 * Revised all of the existing API docs, wrote new cookbook recipes, and wrote
   the
@@ -146,14 +158,15 @@ programming jobs?
 
 ### Books {.resume-sub-heading}
 
-* Contributed two chapters to [RT Essentials][27] from O'Reilly and
+* Contributed two chapters to [RT
+  Essentials](https://www.oreilly.com/catalog/rtessentials/) from O'Reilly and
   Associates, published 8/2005.
 * Co-authored [Embedding Perl in HTML with
   Mason](https://www.oreilly.com/library/view/embedding-perl-in/0596002254/)
   with Ken Williams from O'Reilly and Associates, published 10/2002. It is
-  also [freely available online](http://masonbook.houseabsolute.com/book/).
+  also [freely available online](https://masonbook.houseabsolute.com/book/).
 
-## Presentations {#speaking}
+## Presentations
 
 I've presented at conferences around the world, with presentation ranging from
 5-minute lightning talks to all-day intensive classes.
@@ -161,21 +174,23 @@ I've presented at conferences around the world, with presentation ranging from
 * [My slides]({{% ref "/presentation-slides/index.md" %}})
 * [My class descriptions]({{% ref "/classes/index.md" %}})
 
-## FOSS Software {#foss}
+## FOSS Software
 
 * Created and/or maintained many FOSS projects. Here are a few highlights:
     * [detest](https://pkg.go.dev/github.com/houseabsolute/detest) is a test
       assertion library for **Go**.
-    * [omegasort](https://github.com/houseabsolute/omegasort) is a CLI tool for
-      sorting text files written in **Go**.
-    * [precious](https://github.com/houseabsolute/precious) is a meta-linting code
-      quality tool (a tool to run many linters and prettifiers) in **Rust**.
-    * [ubi](https://github.com/houseabsolute/ubi) is a tool to install single-file
-      binaries from GitHub releases, in **Rust**.
+    * [omegasort](https://github.com/houseabsolute/omegasort) is a CLI tool
+      for sorting text files written in **Go**.
+    * [precious](https://github.com/houseabsolute/precious) is a meta-linting
+      code quality tool (a tool to run many linters and prettifiers) in
+      **Rust**.
+    * [ubi](https://github.com/houseabsolute/ubi) is a tool to install
+      single-file binaries from GitHub releases, in **Rust**.
     * I kicked off the **Perl DateTime Project** in the early 2000s, which
-      developed a comprehensive suite of interoperating Perl libraries for dealing
-      with dates and times. Distributions in the DateTime suite are under the
-      [DateTime namespace on CPAN][33]
+      developed a comprehensive suite of interoperating Perl libraries for
+      dealing with dates and times. Distributions in the DateTime suite are
+      under the [DateTime namespace on
+      CPAN](https://metacpan.org/search?q=datetime)
 * My [houseabsolute GitHub
   organization](https://github.com/houseabsolute?type=source) contains the
   vast majority of my projects.
@@ -211,38 +226,3 @@ Master of Arts in Music Composition
 **1991 – 1995**
 
 Bachelor of Arts in Music
-
- [1]: https://metacpan.org/pod/DateTime
- [2]: http://metacpan.org/author/DROLSKY
- [3]: https://metacpan.org/release/Moose
- [4]: http://perldoc.perl.org/perlootut.html
- [5]: http://perldoc.perl.org/perlobj.html
- [6]: https://github.com/autarch/
- [7]: https://github.com/houseabsolute/
- [8]: http://blog.urth.org/
- [9]: https://www.activestate.com/
- [10]: https://www.maxmind.com/
- [11]: https://metacpan.org/release/Stepford
- [12]: http://dev.maxmind.com/geoip/geoip2/downloadable/
- [13]: http://maxmind.github.io/MaxMind-DB/
- [14]: https://github.com/maxmind/libmaxminddb
- [15]: https://github.com/maxmind/MaxMind-DB-Writer-perl
- [16]: http://www.reuters.com/
- [17]: http://www.livetext.com/
- [18]: http://www.socialtext.com/
- [19]: http://perladvent.org/2016/2016-12-24.html
- [20]: http://perladvent.org/2015/2015-12-16.html
- [21]: http://lwn.net/Articles/487216/
- [22]: http://lwn.net/Articles/485569/
- [23]: http://perldoc.perl.org/perlhack.html
- [24]: http://perldoc.perl.org/perlhacktut.html
- [25]: http://perldoc.perl.org/perlhacktips.html
- [26]: http://perldoc.perl.org/perlsource.html
- [27]: http://www.oreilly.com/catalog/rtessentials/
- [29]: http://masonbook.houseabsolute.com/book/
- [30]: /presentation-slides/
- [31]: /classes/
- [32]: http://moose.perl.org/
- [33]: https://metacpan.org/search?q=datetime
- [34]: https://metacpan.org/release/Catalyst-Runtime
- [35]: http://mojolicious.org/
