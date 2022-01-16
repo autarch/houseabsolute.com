@@ -91,15 +91,15 @@ jobs. We also developed the first version of the service that handled requests
 for builds across all operating systems.
 
 Since our services formed the backbone of the ActiveState Platform, every
-other technical team in the company was a customer for our services. I
+other technical team in the company was a customer of our services. I
 **worked closely with these other teams and Product Management** to **design
 our APIs**, **write design docs**, **plan changes and rollouts**, and address
 bugs and performance issues that affect the Platform. I also led **blame-free
-postmorterms** for outages and other severe incidents as needed.
+postmortems** for outages and other severe incidents as needed.
 
 For quarterly planning, I worked with the CTO, Director of Engineering, and
-Product team. During this process we **defined my team's OKRs and KPIs** and
-determined which projects to prioritize based on customer and company needs.
+Product team to **define my team's OKRs and KPIs** and determine which
+projects to prioritize based on customer and company needs.
 
 In addition to my Team Lead responsibilities, I also worked extensively on our
 **Engineering department documentation** and rewrote our FOSS usage/release
@@ -214,7 +214,7 @@ available in an [online version][29].
 ## Presentations {#speaking}
 
 I have presented at many conferences around the world. These presentations
-have ranged from 5 minute lightning talks to all day intensive classes
+have ranged from 5-minute lightning talks to all-day intensive classes
 featuring extensive coding exercises as part of the class.
 
 See [my list of slides][30] and [class descriptions][31] for more details.
@@ -222,8 +222,7 @@ See [my list of slides][30] and [class descriptions][31] for more details.
 ## FOSS Software {#foss}
 
 Besides contributing patches to hundreds of projects and libraries, I have
-created and/or maintained a number of FOSS projects. Here are a few
-highlights:
+created and/or maintained many FOSS projects. Here are a few highlights:
 
 * [detest](https://pkg.go.dev/github.com/houseabsolute/detest) is a test
   assertion library for **Go**.
@@ -231,7 +230,7 @@ highlights:
   sorting text files written in **Go**.
 * [precious](https://github.com/houseabsolute/precious) is a meta-linting code
   quality tool (a tool to run many linters and prettifiers) in **Rust**.
-* [ubi](https://github.com/houseabsolute/ubi) is a tool to install single file
+* [ubi](https://github.com/houseabsolute/ubi) is a tool to install single-file
   binaries from GitHub releases, in **Rust**.
 * I kicked off the **Perl DateTime Project** in the early 2000s, which
   developed a comprehensive suite of interoperating Perl libraries for dealing
