@@ -34,7 +34,7 @@ Contact me at [dave@urth.org](mailto:dave@urth.org).
 * Extensive experience with **technical writing and documentation**, including
   as co-author of two O'Reilly books.
 * **Only available for remote work**, regardless of where offices are
-  located. **I am open to travel, but no more than three times per year**.
+  located.
 
 I've been working as a professional software developer since 1998, starting
 with Perl, and more recently using mostly Go, with some JS and C in there over
