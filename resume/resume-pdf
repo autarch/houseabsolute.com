@@ -13,7 +13,7 @@ use Path::Tiny qw( path tempfile );
 
 my ( $uri, $phone );
 GetOptions(
-    'uri:s' => \$uri,
+    'uri:s'  => \$uri,
     'phone!' => \$phone,
 );
 
@@ -55,6 +55,7 @@ $clean =~ s{ <i[^>]+class="fab fa-github"[^>]*></i>}{};
 
 my $t = tempfile( SUFFIX => ".html" );
 $t->spew_utf8($clean);
+
 # say $t;
 # my $x = <STDIN>;
 
@@ -68,10 +69,12 @@ my @vars   = (
         map { ( '-V', $_ ) } (
             'pagesize:letter',
             'linkcolor:Blue',
+            'fontfamily:lato',
+            'fontfamilyoptions:default',
             'author:Dave Rolsky',
             "phone:$phone_num",
             "email:$email",
-            "github:autarch",
+            "date:$date",
         ),
     ),
     (
@@ -83,7 +86,8 @@ my @vars   = (
 );
 
 my $template = path($0)->parent->child('resume.latex');
-system(
+
+my @cmd = (
     'pandoc',
     $t,
     @vars,
@@ -92,6 +96,8 @@ system(
     '-t',         'latex',
     '-o',         $target,
 );
+say "@cmd";
+system(@cmd);
 
 system( 'xdg-open', $target );
 

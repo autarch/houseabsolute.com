@@ -499,19 +499,21 @@ $endif$
 % This comes from Joelle Maslak's resume templates at
 % https://github.com/jmaslak/resume.
 
+\begin{flushleft}
+    \raggedleft
+    {\scriptsize $date$}
+\end{flushleft}
+
 \begin{center}
 	\begin{minipage}[b]{.25\textwidth}
-		\sffamily
 		\raggedright
 		\href{mailto:$email$}{$email$}
 	\end{minipage}%
 	\begin{minipage}[b]{.5\textwidth}
-		\rmfamily\scshape
-		\makeatletter
+		\scshape
 		\centering {\huge $author$}
 	\end{minipage}%
 	\begin{minipage}[b]{.25\textwidth}
-		\sffamily
 		\raggedleft
 		\href{tel:+1-$phone$}{$phone$}
 	\end{minipage}
