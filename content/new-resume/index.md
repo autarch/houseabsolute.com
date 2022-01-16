@@ -20,9 +20,9 @@ Contact me at [dave@urth.org](mailto:dave@urth.org).
 ## The Highlights
 
 * **Team lead** and **Staff/Principal Engineer** with **over 20 years of
-  experience** capable of providing **technical leadership, shaping the
-  development workflow, providing mentoring for other staff, hiring, and
-  managing teams**.
+  experience**.
+* Capable of providing **technical leadership, shaping the development
+  workflow, providing mentoring for other staff, hiring, and managing teams**.
 * Able to **gather requirements** and **communicate clearly about technical
   problems** across a company.
 * A proven **track record of
@@ -33,7 +33,7 @@ Contact me at [dave@urth.org](mailto:dave@urth.org).
 * Extensive experience with **technical writing and documentation**, including
   as co-author of two O'Reilly books.
 * **Only available for remote work**, regardless of where offices are
-  located. **I am open to travel, but no more than three times per year**.
+  located.
 
 ## Experience {#experience}
 
@@ -185,7 +185,7 @@ I've presented at conferences around the world, with presentation ranging from
 
 * **Management and Leadership**: KPI and OKR creation, agile development, blame-free postmortems, development processes, technical hiring and onboarding, design docs, change/rollout planning
 * **Languages**: Go, JavaScript, SQL, Pl/pgSQL, C, Rust, HTML, CSS, Perl (and XS)
-* **Tools and Frameworks**: React, Bootstrap, Tailwind, Swagger, GraphQL, GRPC
+* **Tools, Frameworks, and Protocols**: React, Bootstrap, Tailwind, Swagger, GraphQL, GRPC
 * **Databases**: Postgres, MySQL, Redis, RDS, AWS
 * **Services and Deployment**: Docker, Kubernetes, Kafka, RabbitMQ, Prometheus, distributed tracing
 * **CI systems**: GitHub Actions, CircleCI, Azure Pipelines, TeamCity, Jenkins
