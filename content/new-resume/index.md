@@ -123,22 +123,6 @@ Contact me at [dave@urth.org](mailto:dave@urth.org).
 Do you really want to read about my TA position in Music Theory or my first
 programming jobs?
 
-## Skills
-
-* **Management and Leadership**: KPI and OKR creation, agile development,
-  blame-free postmortems, development processes, technical hiring and
-  onboarding, design docs, change/rollout planning
-* **Languages**: Go, JavaScript, SQL, Pl/pgSQL, C, Rust, HTML, CSS, Perl (and
-  XS)
-* **Tools, Frameworks, and Protocols**: React, Bootstrap, Tailwind, Swagger,
-  GraphQL, GRPC
-* **Databases**: Postgres, MySQL, Redis, RDS, AWS
-* **Services and Deployment**: Docker, Kubernetes, Kafka, RabbitMQ,
-  Prometheus, distributed tracing
-* **CI systems**: GitHub Actions, CircleCI, Azure Pipelines, TeamCity, Jenkins
-* **Other**: API design, Database schema design, benchmarking and profiling,
-  date and time standards, I18N and L10N, email parsing, Hugo
-
 ## FOSS Software
 
 * Created and/or maintained many FOSS projects. Here are a few highlights:
@@ -159,6 +143,23 @@ programming jobs?
 * My [houseabsolute GitHub
   organization](https://github.com/houseabsolute?type=source) contains the
   vast majority of my projects.
+
+## Skills
+
+* **Management and Leadership**: KPI and OKR creation, agile development,
+  blame-free postmortems, development processes, technical hiring and
+  onboarding, design docs, change/rollout planning
+* **Languages**: Go, JavaScript, SQL, Pl/pgSQL, C, Rust, HTML, CSS, Perl (and
+  XS)
+* **Tools, Frameworks, and Protocols**: React, Bootstrap, Tailwind, Swagger,
+  GraphQL, GRPC
+* **Databases**: Postgres, MySQL, Redis, RDS, AWS
+* **Services and Deployment**: Docker, Kubernetes, Kafka, RabbitMQ,
+  Prometheus, distributed tracing
+* **CI systems**: GitHub Actions, CircleCI, Azure Pipelines, TeamCity, Jenkins
+* **Other**: API design, Database schema design, benchmarking and profiling,
+  date and time standards, I18N and L10N, email parsing, Hugo
+
 
 ## Publications
 
