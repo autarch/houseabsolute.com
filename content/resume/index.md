@@ -7,7 +7,7 @@ url: /resume/
 ---
 <div class="web-only">
 
-Contact me at [dave@urth.org]("mailto:dave@urth.org").
+Contact me at [dave@urth.org](mailto:dave@urth.org).
 
 </div>
 
