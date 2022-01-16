@@ -69,7 +69,7 @@ Software should provide value to users and get better over time, not worse.
 
 ### [ActiveState Software Inc.][9] {.resume-sub-heading}
 
-**Team Lead, Senior Software Engineer, 2/2017 - 10/2021**
+**Team Lead, Senior Software Engineer, 2/2017–10/2021**
 
 When I began at ActiveState, I was the Team Lead for the Languages Team, which
 produced binary builds of ActivePerl, ActivePython, and ActiveTcl for our
@@ -111,7 +111,7 @@ process**.
 
 ### [MaxMind, Inc.][10] {.resume-sub-heading}
 
-**Software Engineering Team Lead, 7/2011 - 1/2017**
+**Software Engineering Team Lead, 7/2011–1/2017**
 
 At MaxMind, I led a team developing **websites and REST APIs**, **queue
 processing systems**, and **build tools** using **Modern Perl**, **Go**,
@@ -154,23 +154,23 @@ screening and interview process** used for all of these hires.
 
 ### [Thomson Reuters][16] {.resume-sub-heading}
 
-**Consulting Software Engineer, 11/2007 - 4/2011**
+**Consulting Software Engineer, 11/2007–4/2011**
 
 ### [LiveText, Inc.][17] {.resume-sub-heading}
 
-**Senior Developer, 3/2007 - 11/2007**
+**Senior Developer, 3/2007–11/2007**
 
 ### Socialtext, Inc. {.resume-sub-heading}
 
-**Senior Developer - Database Lead, 9/2004 - 3/2007**
+**Senior Developer - Database Lead, 9/2004–3/2007**
 
 ### House Absolute Consulting {.resume-sub-heading}
 
-**Sole Proprietor, 2/2002 - 9/2004**
+**Sole Proprietor, 2/2002–9/2004**
 
 ### Various {.resume-sub-heading}
 
-**Too Old to List, 1995 - 2002**
+**Too Old to List, 1995–2002**
 
 Do you really want to read about my TA position in Music Theory or my first
 programming jobs?
@@ -263,13 +263,13 @@ Wow, you read this far? Amazing!
 
 ### University of Minnesota, School of Music {.resume-sub-heading}
 
-**1995-1997**
+**1995–1997**
 
 Master of Arts in Music Composition
 
 ### Bard College {.resume-sub-heading}
 
-**1991-1995**
+**1991–1995**
 
 Bachelor of Arts in Music
 
