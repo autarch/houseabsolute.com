@@ -128,9 +128,11 @@ programming jobs?
 ### Articles {.resume-sub-heading}
 
 * Perl Advent Calendar - [The Grinch's Well-Tested Second
-  Attempt](https://perladvent.org/2016/2016-12-24.html) - December 24, 2016
+  Attempt](https://web.archive.org/web/20210912054829/https://perladvent.org/2016/2016-12-24.html) -
+  December 24, 2016
 * Perl Advent Calendar - [Building Santa's Naughty and Nice List with
-  Stepford](https://perladvent.org/2015/2015-12-16.html) - December 16, 2015
+  Stepford](https://web.archive.org/web/20170114011940/http://perladvent.org/2015/2015-12-16.html) -
+  December 16, 2015
 * LWN.net - [Perl 5.16 and beyond](https://lwn.net/Articles/487216/) - March
   22, 2012
 * LWN.net - [The Perl 5 release process](https://lwn.net/Articles/485569/) -
@@ -138,16 +140,16 @@ programming jobs?
 
 ### Perl Core Documentation {.resume-sub-heading}
 
-* Wrote [perlootut](https://perldoc.perl.org/perlootut.html) from scratch and
-  revised [perlobj](https://perldoc.perl.org/perlobj.html) from the ground up
-  for the Perl 5.16.0 release in 2012.
+* Wrote [perlootut](https://perldoc.perl.org/perlootut) from scratch and
+  revised [perlobj](https://perldoc.perl.org/perlobj) from the ground up for
+  the Perl 5.16.0 release in 2012.
 * Made major edits to several other documents in the Perl core, including
-  [perlhack](https://perldoc.perl.org/perlhack.html),
-  [perlhacktut](https://perldoc.perl.org/perlhacktut.html),
-  [perlhacktips](https://perldoc.perl.org/perlhacktips.html), and
-  [perlsource](https://perldoc.perl.org/perlsource.html).
+  [perlhack](https://perldoc.perl.org/perlhack),
+  [perlhacktut](https://perldoc.perl.org/perlhacktut),
+  [perlhacktips](https://perldoc.perl.org/perlhacktips), and
+  [perlsource](https://perldoc.perl.org/perlsource).
 
-### [Moose documentation](https://metacpan.org/release/Moose) {.resume-sub-heading}
+### [Moose documentation](https://metacpan.org/dist/Moose) {.resume-sub-heading}
 
 * Received a grant from The Perl Foundation in 2009 to work on the
   documentation for Moose, an OO system for Perl.
@@ -159,8 +161,8 @@ programming jobs?
 ### Books {.resume-sub-heading}
 
 * Contributed two chapters to [RT
-  Essentials](https://www.oreilly.com/catalog/rtessentials/) from O'Reilly and
-  Associates, published 8/2005.
+  Essentials](https://www.oreilly.com/library/view/rt-essentials/0596006683/)
+  from O'Reilly and Associates, published 8/2005.
 * Co-authored [Embedding Perl in HTML with
   Mason](https://www.oreilly.com/library/view/embedding-perl-in/0596002254/)
   with Ken Williams from O'Reilly and Associates, published 10/2002. It is
