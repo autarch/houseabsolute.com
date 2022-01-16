@@ -123,6 +123,43 @@ Contact me at [dave@urth.org](mailto:dave@urth.org).
 Do you really want to read about my TA position in Music Theory or my first
 programming jobs?
 
+## Skills
+
+* **Management and Leadership**: KPI and OKR creation, agile development,
+  blame-free postmortems, development processes, technical hiring and
+  onboarding, design docs, change/rollout planning
+* **Languages**: Go, JavaScript, SQL, Pl/pgSQL, C, Rust, HTML, CSS, Perl (and
+  XS)
+* **Tools, Frameworks, and Protocols**: React, Bootstrap, Tailwind, Swagger,
+  GraphQL, GRPC
+* **Databases**: Postgres, MySQL, Redis, RDS, AWS
+* **Services and Deployment**: Docker, Kubernetes, Kafka, RabbitMQ,
+  Prometheus, distributed tracing
+* **CI systems**: GitHub Actions, CircleCI, Azure Pipelines, TeamCity, Jenkins
+* **Other**: API design, Database schema design, benchmarking and profiling,
+  date and time standards, I18N and L10N, email parsing, Hugo
+
+## FOSS Software
+
+* Created and/or maintained many FOSS projects. Here are a few highlights:
+    * [detest](https://pkg.go.dev/github.com/houseabsolute/detest) is a test
+      assertion library for **Go**.
+    * [omegasort](https://github.com/houseabsolute/omegasort) is a CLI tool
+      for sorting text files written in **Go**.
+    * [precious](https://github.com/houseabsolute/precious) is a meta-linting
+      code quality tool (a tool to run many linters and prettifiers) in
+      **Rust**.
+    * [ubi](https://github.com/houseabsolute/ubi) is a tool to install
+      single-file binaries from GitHub releases, in **Rust**.
+    * I kicked off the **Perl DateTime Project** in the early 2000s, which
+      developed a comprehensive suite of interoperating Perl libraries for
+      dealing with dates and times. Distributions in the DateTime suite are
+      under the [DateTime namespace on
+      CPAN](https://metacpan.org/search?q=datetime)
+* My [houseabsolute GitHub
+  organization](https://github.com/houseabsolute?type=source) contains the
+  vast majority of my projects.
+
 ## Publications
 
 ### Articles {.resume-sub-heading}
@@ -175,43 +212,6 @@ I've presented at conferences around the world, with presentation ranging from
 
 * [My slides]({{% ref "/presentation-slides/index.md" %}})
 * [My class descriptions]({{% ref "/classes/index.md" %}})
-
-## FOSS Software
-
-* Created and/or maintained many FOSS projects. Here are a few highlights:
-    * [detest](https://pkg.go.dev/github.com/houseabsolute/detest) is a test
-      assertion library for **Go**.
-    * [omegasort](https://github.com/houseabsolute/omegasort) is a CLI tool
-      for sorting text files written in **Go**.
-    * [precious](https://github.com/houseabsolute/precious) is a meta-linting
-      code quality tool (a tool to run many linters and prettifiers) in
-      **Rust**.
-    * [ubi](https://github.com/houseabsolute/ubi) is a tool to install
-      single-file binaries from GitHub releases, in **Rust**.
-    * I kicked off the **Perl DateTime Project** in the early 2000s, which
-      developed a comprehensive suite of interoperating Perl libraries for
-      dealing with dates and times. Distributions in the DateTime suite are
-      under the [DateTime namespace on
-      CPAN](https://metacpan.org/search?q=datetime)
-* My [houseabsolute GitHub
-  organization](https://github.com/houseabsolute?type=source) contains the
-  vast majority of my projects.
-
-## Skills
-
-* **Management and Leadership**: KPI and OKR creation, agile development,
-  blame-free postmortems, development processes, technical hiring and
-  onboarding, design docs, change/rollout planning
-* **Languages**: Go, JavaScript, SQL, Pl/pgSQL, C, Rust, HTML, CSS, Perl (and
-  XS)
-* **Tools, Frameworks, and Protocols**: React, Bootstrap, Tailwind, Swagger,
-  GraphQL, GRPC
-* **Databases**: Postgres, MySQL, Redis, RDS, AWS
-* **Services and Deployment**: Docker, Kubernetes, Kafka, RabbitMQ,
-  Prometheus, distributed tracing
-* **CI systems**: GitHub Actions, CircleCI, Azure Pipelines, TeamCity, Jenkins
-* **Other**: API design, Database schema design, benchmarking and profiling,
-  date and time standards, I18N and L10N, email parsing, Hugo
 
 ## Education
 
