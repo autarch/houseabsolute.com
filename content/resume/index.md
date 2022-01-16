@@ -45,13 +45,13 @@ Contact me at [dave@urth.org](mailto:dave@urth.org).
 
 I've been working as a professional software developer since 1998, starting
 with Perl, and more recently using mostly Go, with some JS and C in there over
-time. I've also worked with SQL, webapps, REST APIs, GraphQL, Docker, k8s,
+time. I've also worked with SQL, web apps, REST APIs, GraphQL, Docker, k8s,
 AWS, and more.
 
 I enjoy solving problems for humans. This means more than just "making it go",
-it also means really understanding the needs of your users. I also have a
-strong interest in data. Solid data models are the key to building powerful,
-flexible applications.
+it also means understanding the needs of your users. I also have a strong
+interest in data. Solid data models are the key to building powerful, flexible
+applications.
 
 Over the years, I've created or contributed to hundreds of free software
 projects and libraries. I've also written extensive technical documentation
@@ -197,7 +197,8 @@ other documents in the Perl core, including [perlhack][23], [perlhacktut][24],
 
 In 2009 I received a grant from The Perl Foundation to work on the
 documentation for Moose, an OO system for Perl. I revised all of the existing
-API docs, wrote new cookbook recipes, and wrote the Moose::Manual
+API docs, wrote new cookbook recipes, and wrote the
+[Moose::Manual](https://metacpan.org/dist/Moose/view/lib/Moose/Manual.pod)
 documentation from scratch.
 
 ### RT Essentials {.resume-sub-heading}
