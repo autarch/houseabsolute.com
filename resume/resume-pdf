@@ -1,0 +1,118 @@
+#!/usr/bin/env perl
+
+use v5.32;
+use strict;
+use warnings;
+use autodie qw( :all );
+
+use DateTime;
+use Getopt::Long;
+use LWP::UserAgent;
+use Mojo::DOM;
+use Path::Tiny qw( path tempfile );
+
+my ( $uri, $phone );
+GetOptions(
+    'uri:s' => \$uri,
+    'phone!' => \$phone,
+);
+
+$uri   //= 'https://houseabsolute.com/resume/';
+$phone //= 1;
+
+my $ua = LWP::UserAgent->new;
+
+# If we use the default agent it looks like render returns a 403 :(
+$ua->agent('resume-pdf/1.0');
+my $response = $ua->get($uri);
+unless ( $response->is_success ) {
+    my $msg     = 'Got ' . $response->code . " from $uri";
+    my $content = $response->decoded_content;
+    $msg .= "\n$content\n"
+        if $content;
+    die $msg;
+}
+
+my $html = $response->decoded_content;
+my $dom  = Mojo::DOM->new($html);
+
+my $content = $dom->find('article')->first;
+
+$dom->find('.web-only')->each( sub { $_->remove } );
+$dom->find('h1')->first->remove;
+
+my $head = sprintf( <<'EOF', ($uri) x 2 );
+<p>
+<br>
+The most up to date version of my resume can always be found online at<br>
+<a href="%s">%s</a>.
+</p>
+
+EOF
+
+my $clean = $head . $content->children->join("\n");
+$clean =~ s{ <i[^>]+class="fab fa-github"[^>]*></i>}{};
+
+my $t = tempfile( SUFFIX => ".html" );
+$t->spew_utf8($clean);
+# say $t;
+# my $x = <STDIN>;
+
+my $email = 'dave@urth.org';
+my $date  = DateTime->today->date;
+my $phone_num
+    = $phone ? path('~/.phone')->slurp =~ s/^\s+|\s+$//gr : '612-555-1234';
+my $target = '/home/autarch/misc/job/resume.pdf';
+my @vars   = (
+    (
+        map { ( '-V', $_ ) } (
+            'pagesize:letter',
+            'linkcolor:Blue',
+            'author:Dave Rolsky',
+            "phone:$phone_num",
+            "email:$email",
+            "github:autarch",
+        ),
+    ),
+    (
+        map { ( '-V', 'margin-' . $_ . ':1.0in' ) } qw( left right ),
+    ),
+    (
+        map { ( '-V', 'margin-' . $_ . ':0.8in' ) } qw( top bottom ),
+    ),
+);
+
+my $template = path($0)->parent->child('resume.latex');
+system(
+    'pandoc',
+    $t,
+    @vars,
+    '--template', $template,
+    '-f',         'html',
+    '-t',         'latex',
+    '-o',         $target,
+);
+
+system( 'xdg-open', $target );
+
+__END__
+
+Copyright © 2022 David Rolsky
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
