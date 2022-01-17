@@ -165,17 +165,17 @@ programming jobs?
 
 ## Publications
 
-For a full list see [my online list of publications]({{% ref
-"/publications/index.md" %}}).
+For a full list see [my list of publications]({{% ref "/publications/index.md"
+%}}). Some highlights:
 
 * LWN.net - [Perl 5.16 and beyond](https://lwn.net/Articles/487216/) - March
   22, 2012
 * Wrote [perlootut](https://perldoc.perl.org/perlootut) from scratch and
   revised [perlobj](https://perldoc.perl.org/perlobj) from the ground up for
   the Perl 5.16.0 release in 2012.
-* As part of a grant to work on the [Moose
-  distribution](https://metacpan.org/dist/Moose) documentation, revised all of
-  the existing API docs, wrote new cookbook recipes, and wrote the
+* Received a grant from The Perl Foundation to work on the [Moose
+  distribution](https://metacpan.org/dist/Moose) documentation and revised all
+  of the existing API docs, wrote new cookbook recipes, and wrote the
   [Moose::Manual](https://metacpan.org/dist/Moose/view/lib/Moose/Manual.pod)
   documentation from scratch.
 * Co-authored [Embedding Perl in HTML with
