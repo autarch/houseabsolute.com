@@ -71,6 +71,7 @@ my @vars   = (
             'linkcolor:Blue',
             'fontfamily:lato',
             'fontfamilyoptions:default',
+            'fontfamilyoptions:defaultsans',
             'author:Dave Rolsky',
             "phone:$phone_num",
             "email:$email",
