@@ -17,7 +17,7 @@ Contact me at [dave@urth.org](mailto:dave@urth.org).
 * [The houseabsolute organization](https://github.com/houseabsolute/) contains
   most of my code for easier collaboration.
 * [House Absolute(ly Pointless)](https://blog.urth.org/), my (mostly)
-  technical blog
+  technical blog.
 
 ## The Highlights
 
@@ -26,12 +26,12 @@ Contact me at [dave@urth.org](mailto:dave@urth.org).
 * Capable of providing **technical leadership, shaping the development
   workflow, providing mentoring for other staff, hiring, and managing teams**.
 * Able to **gather requirements** and **communicate clearly about technical
-  problems** across a company.
+  problems** across teams and departments.
 * A proven **track record of
   [hiring](https://blog.urth.org/2019/07/11/a-technical-hiring-process-revisited/)**
   excellent developers.
 * **Prolific FOSS author** of [a variety of
-  projects](https://github.com/houseabsolute/) in Rust and Go as well as
+  projects](https://github.com/houseabsolute/) in Rust and Go, as well as
   Perl's [DateTime.pm](https://metacpan.org/pod/DateTime) library and [many
   other Perl libraries](https://metacpan.org/author/DROLSKY).
 * Extensive experience with **technical writing and documentation**, including
@@ -44,25 +44,26 @@ Contact me at [dave@urth.org](mailto:dave@urth.org).
 
 **Team Lead, Senior Software Engineer, 2/2017 – 10/2021**
 
-* Led a team providing key **backend services**, including the **REST API**
-  for our entire database of packages, using **Go**, **Swagger**,
-  **Postgres**, and **Kafka**.
-* Improved team workflow by introducing **code review** and an **ordered
-  backlog** of work.
-* Built services that ran on **AWS** using **RDS**, **Docker**, and
-  **Kubernetes**.
-* **Worked closely with these other teams and Product Management** to **design
-  our APIs**, **write design docs**, **plan changes and rollouts**, and
-  address bugs and performance issues that affect the Platform.
-* Led **blame-free postmortems** for outages and other severe incidents as
-  needed.
-* Worked with the CTO, Director of Engineering, and Product team to **define
-  my team's OKRs and KPIs** based on customer and company needs.
+* Led a team providing key **backend services**, including a key **REST API**
+  for our SaaS product's backend, using **Go**, **Swagger**, **Postgres**, and
+  **Kafka**.
+* Built services that ran on **AWS** with **Docker**, **Kubernetes**, and
+  **RDS**.
+* Improved team workflow by introducing **code review**, **testing**, and an
+  **ordered backlog** of work.
+* **Worked closely with other teams and product management** to **understand
+  user needs**, **write design docs**, **design our APIs**, **plan changes and
+  rollouts**, and address bugs and performance issues that affected the
+  product.
+* Led **blame-free postmortems** for outages and other severe incidents.
+* Engaged in quarterly planning with the CTO, Director of Engineering, and
+  product team to **define my team's OKRs and KPIs based on customer and
+  company needs**.
 * Wrote significant **engineering department documentation**, including
-  rewriting our FOSS usage and release policy, working directly with the CTO
-  and CEO.
-* Led **technical hiring** by helping **define our hiring process for
-  engineers**, as well as contributing to our **onboarding process**.
+  rewriting our FOSS usage and release policy with the CTO and CEO.
+* Led **technical hiring** by helping **define our hiring and onboarding
+  processes for engineers** while the company grew from approximately 15 to 55
+  staff.
 
 ### [MaxMind, Inc.](https://www.maxmind.com/) {.resume-sub-heading}
 
@@ -71,6 +72,8 @@ Contact me at [dave@urth.org](mailto:dave@urth.org).
 * Led the engineering team in the development of **websites and REST APIs**,
   **queue processing systems**, and **build tools** using **Modern Perl**,
   **Go**, **RabbitMQ**, and **Postgres**.
+* Developed and supported new and old **services receiving hundreds of
+  requests per second**.
 * Provided **technical leadership** for the engineering team by defining our
   **development workflow** using **agile tools**, as well as our **code
   review** practices.
@@ -160,47 +163,20 @@ programming jobs?
 * **Other**: API design, Database schema design, benchmarking and profiling,
   date and time standards, I18N and L10N, email parsing, Hugo
 
-
 ## Publications
 
-### Articles {.resume-sub-heading}
+For a full list see [my online list of publications]({{% ref
+"/publications/index.md" %}}).
 
-* Perl Advent Calendar - [The Grinch's Well-Tested Second
-  Attempt](https://web.archive.org/web/20210912054829/https://perladvent.org/2016/2016-12-24.html) -
-  December 24, 2016
-* Perl Advent Calendar - [Building Santa's Naughty and Nice List with
-  Stepford](https://web.archive.org/web/20170114011940/http://perladvent.org/2015/2015-12-16.html) -
-  December 16, 2015
 * LWN.net - [Perl 5.16 and beyond](https://lwn.net/Articles/487216/) - March
   22, 2012
-* LWN.net - [The Perl 5 release process](https://lwn.net/Articles/485569/) -
-  March 7, 2012
-
-### Perl Core Documentation {.resume-sub-heading}
-
 * Wrote [perlootut](https://perldoc.perl.org/perlootut) from scratch and
   revised [perlobj](https://perldoc.perl.org/perlobj) from the ground up for
   the Perl 5.16.0 release in 2012.
-* Made major edits to several other documents in the Perl core, including
-  [perlhack](https://perldoc.perl.org/perlhack),
-  [perlhacktut](https://perldoc.perl.org/perlhacktut),
-  [perlhacktips](https://perldoc.perl.org/perlhacktips), and
-  [perlsource](https://perldoc.perl.org/perlsource).
-
-### [Moose documentation](https://metacpan.org/dist/Moose) {.resume-sub-heading}
-
-* Received a grant from The Perl Foundation in 2009 to work on the
-  documentation for Moose, an OO system for Perl.
 * Revised all of the existing API docs, wrote new cookbook recipes, and wrote
   the
   [Moose::Manual](https://metacpan.org/dist/Moose/view/lib/Moose/Manual.pod)
   documentation from scratch.
-
-### Books {.resume-sub-heading}
-
-* Contributed two chapters to [RT
-  Essentials](https://www.oreilly.com/library/view/rt-essentials/0596006683/)
-  from O'Reilly and Associates, published 8/2005.
 * Co-authored [Embedding Perl in HTML with
   Mason](https://www.oreilly.com/library/view/embedding-perl-in/0596002254/)
   with Ken Williams from O'Reilly and Associates, published 10/2002. It is
