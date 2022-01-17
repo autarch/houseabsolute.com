@@ -173,8 +173,9 @@ For a full list see [my online list of publications]({{% ref
 * Wrote [perlootut](https://perldoc.perl.org/perlootut) from scratch and
   revised [perlobj](https://perldoc.perl.org/perlobj) from the ground up for
   the Perl 5.16.0 release in 2012.
-* Revised all of the existing API docs, wrote new cookbook recipes, and wrote
-  the
+* As part of a grant to work on the [Moose
+  distribution](https://metacpan.org/dist/Moose) documentation, revised all of
+  the existing API docs, wrote new cookbook recipes, and wrote the
   [Moose::Manual](https://metacpan.org/dist/Moose/view/lib/Moose/Manual.pod)
   documentation from scratch.
 * Co-authored [Embedding Perl in HTML with
