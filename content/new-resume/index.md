@@ -208,8 +208,8 @@ programming jobs?
 
 ## Presentations
 
-I've presented at conferences around the world, with presentation ranging from
-5-minute lightning talks to all-day intensive classes.
+I've presented at conferences around the world, with presentations ranging
+from 5-minute lightning talks to all-day intensive classes.
 
 * [My slides]({{% ref "/presentation-slides/index.md" %}})
 * [My class descriptions]({{% ref "/classes/index.md" %}})
