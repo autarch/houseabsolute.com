@@ -81,7 +81,7 @@ my @vars   = (
         map { ( '-V', 'margin-' . $_ . ':1.0in' ) } qw( left right ),
     ),
     (
-        map { ( '-V', 'margin-' . $_ . ':0.8in' ) } qw( top bottom ),
+        map { ( '-V', 'margin-' . $_ . ':1.0in' ) } qw( top bottom ),
     ),
 );
 
