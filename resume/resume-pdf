@@ -91,6 +91,10 @@ my $template = path($0)->parent->child('resume.latex');
 my @cmd = (
     'pandoc',
     $t,
+
+    # This makes the h3 (like employer names) in the document bigger than the
+    # surrounding text.
+    '--shift-heading-level-by', '-1',
     @vars,
     '--template', $template,
     '-f',         'html',
