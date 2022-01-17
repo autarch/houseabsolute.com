@@ -97,9 +97,9 @@ Contact me at [dave@urth.org](mailto:dave@urth.org).
   mostly written in C and XS.
 * Developed and extended tools for our **development environment**, including
   **Git** hooks, linters, and tidiers.
-* As Team Lead, I led all **hiring** for technical staff, growing the
-  engineering team from three to fifteen, including front-end and back-end
-  developers, a sysadmin, and QA engineers.
+* **Led all hiring** for technical staff, growing the engineering team from
+  three to fifteen, including front-end and back-end developers, a sysadmin,
+  and QA engineers.
 * Created the **resume screening and interview process** used for all of these
   hires.
 
