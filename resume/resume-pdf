@@ -76,6 +76,9 @@ my @vars   = (
             "phone:$phone_num",
             "email:$email",
             "date:$date",
+            'github1:autarch',
+            'github2:houseabsolute',
+            'blog:https://blog.urth.org',
         ),
     ),
     (

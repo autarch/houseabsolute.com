@@ -437,6 +437,8 @@ $if(logo)$
 $endif$
 $endif$
 
+\usepackage{fontawesome5}
+
 \begin{document}
 $if(has-frontmatter)$
 \frontmatter
@@ -508,6 +510,7 @@ $endif$
 	\begin{minipage}[b]{.25\textwidth}
 		\raggedright
 		\href{mailto:$email$}{$email$}
+		\href{tel:+1-$phone$}{$phone$}
 	\end{minipage}%
 	\begin{minipage}[b]{.5\textwidth}
 		\scshape
@@ -515,8 +518,10 @@ $endif$
 	\end{minipage}%
 	\begin{minipage}[b]{.25\textwidth}
 		\raggedleft
-		\href{tel:+1-$phone$}{$phone$}
-	\end{minipage}
+		\faIcon{github} \href{https://github.com/$github1$}{$github1$}\\
+		\faIcon{github} \href{https://github.com/$github2$}{$github2$}\\
+        \href{$blog$}{My Blog}
+	\end{minipage}%
 
 	{\color{gray} \hrule}
 \end{center}
