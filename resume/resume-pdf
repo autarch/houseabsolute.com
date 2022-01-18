@@ -41,16 +41,7 @@ my $content = $dom->find('article')->first;
 $dom->find('.web-only')->each( sub { $_->remove } );
 $dom->find('h1')->first->remove;
 
-my $head = sprintf( <<'EOF', ($uri) x 2 );
-<p>
-<br>
-The most up to date version of my resume can always be found online at<br>
-<a href="%s">%s</a>.
-</p>
-
-EOF
-
-my $clean = $head . $content->children->join("\n");
+my $clean = $content->children->join("\n");
 $clean =~ s{ <i[^>]+class="fab fa-github"[^>]*></i>}{};
 
 my $t = tempfile( SUFFIX => ".html" );
