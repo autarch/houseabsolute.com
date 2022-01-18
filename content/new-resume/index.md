@@ -8,10 +8,6 @@ url: /new-resume/
 
 Contact me at [dave@urth.org](mailto:dave@urth.org).
 
-</div>
-
-## Quick Links
-
 * [My GitHub profile <i class="fab fa-github"
   aria-hidden="true"></i>](https://github.com/autarch/)
 * [The houseabsolute organization](https://github.com/houseabsolute/) contains
@@ -19,24 +15,7 @@ Contact me at [dave@urth.org](mailto:dave@urth.org).
 * [House Absolute(ly Pointless)](https://blog.urth.org/), my (mostly)
   technical blog.
 
-## The Highlights
-
-* **Team lead** and **Staff/Principal Engineer** with **over 20 years of
-  experience**.
-* Capable of providing **technical leadership, shaping the development
-  workflow, providing mentoring for other staff, hiring, and managing teams**.
-* Able to **gather requirements** and **communicate clearly about technical
-  problems** across teams and departments.
-* A proven **track record of
-  [hiring](https://blog.urth.org/2019/07/11/a-technical-hiring-process-revisited/)**
-  excellent developers.
-* **Prolific FOSS author** of [a variety of
-  projects](https://github.com/houseabsolute/) in Rust and Go, as well as
-  Perl's [DateTime.pm](https://metacpan.org/pod/DateTime) library and [many
-  other Perl libraries](https://metacpan.org/author/DROLSKY).
-* Extensive experience with **technical writing and documentation**, including
-  as co-author of two O'Reilly books.
-* **Only available for remote work**, regardless of where offices are located.
+</div>
 
 ## Experience
 
@@ -51,6 +30,7 @@ Contact me at [dave@urth.org](mailto:dave@urth.org).
   **RDS**.
 * Improved team workflow by introducing **code review**, **testing**, and an
   **ordered backlog** of work.
+* **Provided mentoring for junior developers and interns**.
 * **Worked closely with other teams and product management** to **understand
   user needs**, **write design docs**, **design our APIs**, **plan changes and
   rollouts**, and address bugs and performance issues that affected the
@@ -128,7 +108,7 @@ programming jobs?
 
 ## FOSS Software
 
-* Created and/or maintained many FOSS projects. Here are a few highlights:
+* I've created many FOSS projects. Here are a few highlights:
     * [detest](https://pkg.go.dev/github.com/houseabsolute/detest) is a test
       assertion library for **Go**.
     * [omegasort](https://github.com/houseabsolute/omegasort) is a CLI tool
@@ -163,16 +143,14 @@ programming jobs?
 * **Other**: API design, Database schema design, benchmarking and profiling,
   date and time standards, I18N and L10N, email parsing, Hugo
 
-## Publications
-
-For a full list see [my list of publications]({{% ref "/publications/index.md"
-%}}). Some highlights:
+## Publications and Presentations
 
 * LWN.net - [Perl 5.16 and beyond](https://lwn.net/Articles/487216/) - March
   22, 2012
-* Wrote [perlootut](https://perldoc.perl.org/perlootut) from scratch and
-  revised [perlobj](https://perldoc.perl.org/perlobj) from the ground up for
-  the Perl 5.16.0 release in 2012.
+* For the Perl core, rewrote [perlootut](https://perldoc.perl.org/perlootut)
+  from scratch and completely revised
+  [perlobj](https://perldoc.perl.org/perlobj) for the Perl 5.16.0 release in
+  2012.
 * Received a grant from The Perl Foundation to work on the [Moose
   distribution](https://metacpan.org/dist/Moose) documentation and revised all
   of the existing API docs, wrote new cookbook recipes, and wrote the
@@ -182,8 +160,7 @@ For a full list see [my list of publications]({{% ref "/publications/index.md"
   Mason](https://www.oreilly.com/library/view/embedding-perl-in/0596002254/)
   with Ken Williams from O'Reilly and Associates, published 10/2002. It is
   also [freely available online](https://masonbook.houseabsolute.com/book/).
-
-## Presentations
+* See [my complete list of publications]({{% ref "/publications/index.md"%}}).
 
 I've presented at conferences around the world, with presentations ranging
 from 5-minute lightning talks to all-day intensive classes.
