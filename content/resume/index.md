@@ -2,158 +2,96 @@
 title: Resume
 author: Dave Rolsky
 type: page
-date: 2015-06-20T19:15:18+00:00
 url: /resume/
 ---
 <div class="web-only">
 
 Contact me at [dave@urth.org](mailto:dave@urth.org).
 
+* [My GitHub profile <i class="fab fa-github"
+  aria-hidden="true"></i>](https://github.com/autarch/)
+* [The houseabsolute organization](https://github.com/houseabsolute/) contains
+  most of my code for easier collaboration.
+* [House Absolute(ly Pointless)](https://blog.urth.org/), my (mostly)
+  technical blog.
+
 </div>
 
-## Quick Links
+## Experience
 
-* [My GitHub profile <i class="fab fa-github" aria-hidden="true"></i>][6], but
-  most of my code lives in the [houseabsolute organization][7] for easier
-  collaboration.
-* [House Absolute(ly Pointless)][8], my (mostly) technical blog
-
-## The Highlights
-
-* **Team lead** and **Staff/Principal Engineer** with **over 20 years of
-  experience** capable of providing technical leadership, shaping the
-  development workflow, providing mentoring for other staff, hiring, and
-  managing teams.
-* Able to **gather requirements** and **communicate clearly about technical
-  problems**.
-* A proven **track record of
-  [hiring](https://blog.urth.org/2019/07/11/a-technical-hiring-process-revisited/)**
-  excellent developers.
-* **Prolific FOSS author** of [a variety of projects][7] in Rust and Go as
-  well as Perl's [DateTime.pm][1] library and [many other Perl libraries][2].
-* Extensive experience with **technical writing and documentation**, including
-  as co-author of two O'Reilly books.
-* **Only available for remote work**, regardless of where offices are
-  located.
-
-I've been working as a professional software developer since 1998, starting
-with Perl, and more recently using mostly Go, with some JS and C in there over
-time. I've also worked with SQL, web apps, REST APIs, GraphQL, Docker, k8s,
-AWS, and more.
-
-I enjoy solving problems for humans. This means more than just "making it go",
-it also means understanding the needs of your users. I also have a strong
-interest in data. Solid data models are the key to building powerful, flexible
-applications.
-
-Over the years, I've created or contributed to hundreds of free software
-projects and libraries. I've also written extensive technical documentation
-and articles, co-written two books, and presented at many conferences,
-including teaching various all-day classes.
-
-I care greatly about the development process. Clear requirements, breaking
-work up into small pieces, issue tracking, automated testing, CI/CD, QA,
-source control; all of these are crucial to building quality software. Why
-build something that works if it doesn't do what your users want, or if you
-can't maintain it?. Why fix a bug if you reintroduce it in the next release?
-Software should provide value to users and get better over time, not worse.
-
-## Experience {#experience}
-
-### [ActiveState Software Inc.][9] {.resume-sub-heading}
+### [ActiveState Software Inc.](https://www.activestate.com/) {.resume-sub-heading}
 
 **Team Lead, Senior Software Engineer, 2/2017 – 10/2021**
 
-When I began at ActiveState, I was the Team Lead for the Languages Team, which
-produced binary builds of ActivePerl, ActivePython, and ActiveTcl for our
-customers. Builds used a system written in Perl that built all the languages
-on a variety of operating systems, including Linux, Windows, macOS, and
-several big iron systems.
+* Led a team providing key **backend services**, including a key **REST API**
+  for our SaaS product's backend, using **Go**, **Swagger**, **Postgres**, and
+  **Kafka**.
+* Built services that ran on **AWS** with **Docker**, **Kubernetes**, and
+  **RDS**.
+* Improved team workflow by introducing **code review**, **testing**, and an
+  **ordered backlog** of work.
+* **Provided mentoring for junior developers and interns**.
+* **Worked closely with other teams and product management** to **understand
+  user needs**, **write design docs**, **design our APIs**, **plan changes and
+  rollouts**, and address bugs and performance issues that affected the
+  product.
+* Led **blame-free postmortems** for outages and other severe incidents.
+* Engaged in quarterly planning with the CTO, Director of Engineering, and
+  product team to **define my team's OKRs and KPIs based on customer and
+  company needs**.
+* Wrote significant **engineering department documentation**, including
+  rewriting our FOSS usage and release policy with the CTO and CEO.
+* Led **technical hiring** by helping **define our hiring and onboarding
+  processes for engineers** while the company grew from approximately 15 to 55
+  staff.
 
-As the new Team Lead, I helped the team improve our workflow by introducing
-**code review** and an **ordered backlog** of work. I also worked with the
-rest of the company to **define future work**.
-
-After we began work on the [ActiveState
-Platform](https://platform.activestate.com/), my team developed several of the
-key **backend services** for the platform, including the **REST API** for our
-entire database of packages. This was done using **Go**, **Swagger**,
-**Postgres**, and **Kafka**. All of our services ran on **AWS** using **RDS**
-for the database and **Docker** containers in **Kubernetes** for services and
-jobs. We also developed the first version of the service that handled requests
-for builds across all operating systems.
-
-Since our services formed the backbone of the ActiveState Platform, every
-other technical team in the company was a customer of our services. I
-**worked closely with these other teams and Product Management** to **design
-our APIs**, **write design docs**, **plan changes and rollouts**, and address
-bugs and performance issues that affect the Platform. I also led **blame-free
-postmortems** for outages and other severe incidents as needed.
-
-For quarterly planning, I worked with the CTO, Director of Engineering, and
-Product team to **define my team's OKRs and KPIs** and determine which
-projects to prioritize based on customer and company needs.
-
-In addition to my Team Lead responsibilities, I also worked extensively on our
-**Engineering department documentation** and rewrote our FOSS usage/release
-policy, working directly with the CTO and CEO.
-
-I was a leader in our **technical hiring**, helping **define our hiring
-process for engineers**, as well as contributing to our **onboarding
-process**.
-
-### [MaxMind, Inc.][10] {.resume-sub-heading}
+### [MaxMind, Inc.](https://www.maxmind.com/) {.resume-sub-heading}
 
 **Software Engineering Team Lead, 7/2011 – 1/2017**
 
-At MaxMind, I led a team developing **websites and REST APIs**, **queue
-processing systems**, and **build tools** using **Modern Perl**, **Go**,
-**RabbitMQ**, and **Postgres**.
+* Led the engineering team in the development of **websites and REST APIs**,
+  **queue processing systems**, and **build tools** using **Modern Perl**,
+  **Go**, **RabbitMQ**, and **Postgres**.
+* Developed and supported new and old **services receiving hundreds of
+  requests per second**.
+* Provided **technical leadership** for the engineering team by defining our
+  **development workflow** using **agile tools**, as well as our **code
+  review** practices.
+* Wrote the first **unit tests** at the company and later worked on
+  **integration tests** as well our **production simulation** tools.
+* Introduced **continuous integration**, initially with **Jenkins** and later
+  with **TeamCity**.
+* **Benchmarked and optimized** the test suite, bringing the run time from
+  nearly an hour to about 15 minutes.
+* Created a a parallelizable **build system** to implement the entire build
+  process for our line of [GeoIP2
+  databases](https://dev.maxmind.com/geoip/geoip2/downloadable/).
+* Defined and documented the [MaxMind DB file
+  format](https://maxmind.github.io/MaxMind-DB/), including writing a
+  comprehensive spec for it, as well as participating in the development of
+  client libraries in **Perl (XS)**, Python, Java, C#, PHP, and JavaScript.
+* Created the **C** library for this file format,
+  [libmaxminddb](https://github.com/maxmind/libmaxminddb), as well as the Perl
+  library to write the format,
+  [MaxMind::DB::Writer](https://github.com/maxmind/MaxMind-DB-Writer-perl),
+  mostly written in C and XS.
+* Developed and extended tools for our **development environment**, including
+  **Git** hooks, linters, and tidiers.
+* **Led all hiring** for technical staff, growing the engineering team from
+  three to fifteen, including front-end and back-end developers, a sysadmin,
+  and QA engineers.
+* Created the **resume screening and interview process** used for all of these
+  hires.
 
-As Team Lead, I provided technical leadership for the engineering team. This
-included defining our **development workflow** using **agile tools**, as well
-as our **code review** practices (using GitHub Enterprise Pull Requests). I
-also set standards for the engineering team including **coding standards** and
-**testing practices**.
-
-I wrote the first **unit tests** at the company and later worked on
-**integration tests** as well our **production simulation** tools. I also
-introduced **continuous integration**, initially with **Jenkins** and later
-with **TeamCity**. As our test suite grew I also worked on **benchmarking and
-optimizing** the test suite itself, bringing the run time from nearly an hour
-to about 15 minutes.
-
-One of the most interesting tools I created at MaxMind is a Perl library to
-implement a parallelizable **build system** called [Stepford][11]. It is
-similar to `make`, but with Perl classes as the main unit of work instead of
-processes. This system was then used to implement the entire build process for
-our line of [GeoIP2 databases][12].
-
-I helped define and document the [MaxMind DB file format][13], including
-writing a comprehensive spec for it, as well as participating in the
-development of client libraries in **Perl (XS)**, Python, Java, C#, PHP, and
-JavaScript. I also created the **C** API for this format, [libmaxminddb][14],
-as well as the Perl library to write the format, [`MaxMind::DB::Writer`][15],
-which is mostly written in C and XS.
-
-To help improve developer productivity, I developed and extended tools for our
-**development environment**, including **Git** hooks, `Perl::Critic` policies,
-and `Code::TidyAll`, a multi-language linting and tidying tool.
-
-As Team Lead, I led all **hiring** for technical staff, growing the
-engineering team from three to fifteen, including front-end and back-end
-developers, a sysadmin, and QA engineers. I also developed the **resume
-screening and interview process** used for all of these hires.
-
-### [Thomson Reuters][16] {.resume-sub-heading}
+### [Thomson Reuters](https://www.reuters.com/) {.resume-sub-heading}
 
 **Consulting Software Engineer, 11/2007 – 4/2011**
 
-### [LiveText, Inc.][17] {.resume-sub-heading}
+### [LiveText, Inc.](https://www.livetext.com/) {.resume-sub-heading}
 
 **Senior Developer, 3/2007 – 11/2007**
 
-### Socialtext, Inc. {.resume-sub-heading}
+### Socialtext, Inc.  {.resume-sub-heading}
 
 **Senior Developer - Database Lead, 9/2004 – 3/2007**
 
@@ -168,88 +106,67 @@ screening and interview process** used for all of these hires.
 Do you really want to read about my TA position in Music Theory or my first
 programming jobs?
 
-## Publications {#publications}
+## FOSS Software
 
-### Articles {.resume-sub-heading}
+* I've created many FOSS projects. Here are a few highlights:
+    * [detest](https://pkg.go.dev/github.com/houseabsolute/detest) is a test
+      assertion library for **Go**.
+    * [omegasort](https://github.com/houseabsolute/omegasort) is a CLI tool
+      for sorting text files written in **Go**.
+    * [precious](https://github.com/houseabsolute/precious) is a meta-linting
+      code quality tool (a tool to run many linters and prettifiers) in
+      **Rust**.
+    * [ubi](https://github.com/houseabsolute/ubi) is a tool to install
+      single-file binaries from GitHub releases, in **Rust**.
+    * I kicked off the **Perl DateTime Project** in the early 2000s, which
+      developed a comprehensive suite of interoperating Perl libraries for
+      dealing with dates and times. Distributions in the DateTime suite are
+      under the [DateTime namespace on
+      CPAN](https://metacpan.org/search?q=datetime)
+* My [houseabsolute GitHub
+  organization](https://github.com/houseabsolute?type=source) contains the
+  vast majority of my projects.
 
-* Perl Advent Calendar - [The Grinch's Well-Tested Second Attempt][19] -
-  December 24, 2016
-* Perl Advent Calendar - [Building Santa's Naughty and Nice List with
-  Stepford][20] - December 16, 2015
-* LWN.net - [Perl 5.16 and beyond][21] - March 22, 2012
-* LWN.net - [The Perl 5 release process][22] - March 7, 2012
+## Skills
 
-### Perl Core Documentation {.resume-sub-heading}
+* **Management and Leadership**: KPI and OKR creation, agile development,
+  blame-free postmortems, development processes, technical hiring and
+  onboarding, design docs, change/rollout planning
+* **Languages**: Go, JavaScript, SQL, Pl/pgSQL, C, Rust, HTML, CSS, Perl (and
+  XS)
+* **Tools, Frameworks, and Protocols**: React, Bootstrap, Tailwind, Swagger,
+  GraphQL, GRPC
+* **Databases**: Postgres, MySQL, Redis, RDS, AWS
+* **Services and Deployment**: Docker, Kubernetes, Kafka, RabbitMQ,
+  Prometheus, distributed tracing
+* **CI systems**: GitHub Actions, CircleCI, Azure Pipelines, TeamCity, Jenkins
+* **Other**: API design, Database schema design, benchmarking and profiling,
+  date and time standards, I18N and L10N, email parsing, Hugo
 
-I wrote [perlootut][4] from scratch and revised [perlobj][5] from the ground
-up for the Perl 5.16.0 release in 2012. I also made major edits to several
-other documents in the Perl core, including [perlhack][23], [perlhacktut][24],
-[perlhacktips][25], and [perlsource][26].
+## Publications and Presentations
 
-### [Moose documentation][3] {.resume-sub-heading}
+* LWN.net - [Perl 5.16 and beyond](https://lwn.net/Articles/487216/) - March
+  22, 2012
+* For the Perl core, rewrote [perlootut](https://perldoc.perl.org/perlootut)
+  from scratch and completely revised
+  [perlobj](https://perldoc.perl.org/perlobj) for the Perl 5.16.0 release in
+  2012.
+* Received a grant from The Perl Foundation to work on the [Moose
+  distribution](https://metacpan.org/dist/Moose) documentation and revised all
+  of the existing API docs, wrote new cookbook recipes, and wrote the
+  [Moose::Manual](https://metacpan.org/dist/Moose/view/lib/Moose/Manual.pod)
+  documentation from scratch.
+* Co-authored [Embedding Perl in HTML with
+  Mason](https://www.oreilly.com/library/view/embedding-perl-in/0596002254/)
+  with Ken Williams from O'Reilly and Associates, published 10/2002. It is
+  also [freely available online](https://masonbook.houseabsolute.com/book/).
+* See [my complete list of publications]({{% ref "/publications/index.md"%}}).
 
-In 2009 I received a grant from The Perl Foundation to work on the
-documentation for Moose, an OO system for Perl. I revised all of the existing
-API docs, wrote new cookbook recipes, and wrote the
-[Moose::Manual](https://metacpan.org/dist/Moose/view/lib/Moose/Manual.pod)
-documentation from scratch.
+I've presented at conferences around the world, with presentations ranging
+from 5-minute lightning talks to all-day intensive classes.
 
-### RT Essentials {.resume-sub-heading}
-
-I contributed two chapters to this book. For more details see the [O'Reilly
-page for the book][27].
-
-### Embedding Perl in HTML with Mason {.resume-sub-heading}
-
-This book, which I co-authored with Ken Williams, is available from [O'Reilly
-and Associates][28], and was published in October of 2002. It is also freely
-available in an [online version][29].
-
-## Presentations {#speaking}
-
-I have presented at many conferences around the world. These presentations
-have ranged from 5-minute lightning talks to all-day intensive classes
-featuring extensive coding exercises as part of the class.
-
-See [my list of slides]({{% ref "/presentation-slides/index.md" %}}) and
-[class descriptions]({{% ref "/classes/index.md" %}}) for more details.
-
-## FOSS Software {#foss}
-
-Besides contributing patches to hundreds of projects and libraries, I have
-created and/or maintained many FOSS projects. Here are a few highlights:
-
-* [detest](https://pkg.go.dev/github.com/houseabsolute/detest) is a test
-  assertion library for **Go**.
-* [omegasort](https://github.com/houseabsolute/omegasort) is a CLI tool for
-  sorting text files written in **Go**.
-* [precious](https://github.com/houseabsolute/precious) is a meta-linting code
-  quality tool (a tool to run many linters and prettifiers) in **Rust**.
-* [ubi](https://github.com/houseabsolute/ubi) is a tool to install single-file
-  binaries from GitHub releases, in **Rust**.
-* I kicked off the **Perl DateTime Project** in the early 2000s, which
-  developed a comprehensive suite of interoperating Perl libraries for dealing
-  with dates and times. Distributions in the DateTime suite are under the
-  [DateTime][33] namespace on CPAN
-
-See my [houseabsolute GitHub
-organization](https://github.com/houseabsolute?type=source) for the vast
-majority of my projects.
-
-## Other Skills
-
-It's hard to jam everything I've ever done into a list of jobs and
-projects. Here's a list of other things I'd be happy to talk about in
-interviews:
-
-* CI systems, including GitHub Actions, CircleCI, Azure Pipelines, and others.
-* Rust, it's super fun but I've yet to use it for paid work.
-* SQL, PL/pgSQL, and Postgres extensions.
-* Date and time standards.
-* Database schema design.
-* HTML, CSS (including Less & Sass), Bootstrap, JavaScript, and React.
-* I18N and L10N.
-* Email parsing and generation.
+* [My slides]({{% ref "/presentation-slides/index.md" %}})
+* [My class descriptions]({{% ref "/classes/index.md" %}})
 
 ## Education
 
@@ -266,37 +183,3 @@ Master of Arts in Music Composition
 **1991 – 1995**
 
 Bachelor of Arts in Music
-
- [1]: https://metacpan.org/pod/DateTime
- [2]: http://metacpan.org/author/DROLSKY
- [3]: https://metacpan.org/release/Moose
- [4]: http://perldoc.perl.org/perlootut.html
- [5]: http://perldoc.perl.org/perlobj.html
- [6]: https://github.com/autarch/
- [7]: https://github.com/houseabsolute/
- [8]: http://blog.urth.org/
- [9]: https://www.activestate.com/
- [10]: https://www.maxmind.com/
- [11]: https://metacpan.org/release/Stepford
- [12]: http://dev.maxmind.com/geoip/geoip2/downloadable/
- [13]: http://maxmind.github.io/MaxMind-DB/
- [14]: https://github.com/maxmind/libmaxminddb
- [15]: https://github.com/maxmind/MaxMind-DB-Writer-perl
- [16]: http://www.reuters.com/
- [17]: http://www.livetext.com/
- [18]: http://www.socialtext.com/
- [19]: http://perladvent.org/2016/2016-12-24.html
- [20]: http://perladvent.org/2015/2015-12-16.html
- [21]: http://lwn.net/Articles/487216/
- [22]: http://lwn.net/Articles/485569/
- [23]: http://perldoc.perl.org/perlhack.html
- [24]: http://perldoc.perl.org/perlhacktut.html
- [25]: http://perldoc.perl.org/perlhacktips.html
- [26]: http://perldoc.perl.org/perlsource.html
- [27]: http://www.oreilly.com/catalog/rtessentials/
- [28]: http://www.oreilly.com/catalog/perlhtmlmason/
- [29]: http://masonbook.houseabsolute.com/book/
- [32]: http://moose.perl.org/
- [33]: https://metacpan.org/search?q=datetime
- [34]: https://metacpan.org/release/Catalyst-Runtime
- [35]: http://mojolicious.org/
