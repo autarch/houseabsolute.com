@@ -21,7 +21,8 @@ Contact me at [dave@urth.org](mailto:dave@urth.org).
 
 ### [ActiveState Software Inc.](https://www.activestate.com/) {.resume-sub-heading}
 
-**Team Lead, Senior Software Engineer, 2/2017 – 10/2021**
+**Team Lead, Senior Software Engineer, 2/2017 – 10/2021**  
+<small>4 years, 8 months</small>
 
 * Led a team providing key **backend services**, including a key **REST API**
   for our SaaS product's backend, using **Go**, **Swagger**, **Postgres**, and
@@ -47,12 +48,13 @@ Contact me at [dave@urth.org](mailto:dave@urth.org).
 
 ### [MaxMind, Inc.](https://www.maxmind.com/) {.resume-sub-heading}
 
-**Software Engineering Team Lead, 7/2011 – 1/2017**
+**Software Engineering Team Lead, 7/2011 – 1/2017**  
+<small>5 years, 6 months</small>
 
 * Led the engineering team in the development of **websites and REST APIs**,
   **queue processing systems**, and **build tools** using **Modern Perl**,
   **Go**, **RabbitMQ**, and **Postgres**.
-* Developed and supported new and old **services receiving hundreds of
+* Developed and smallported new and old **services receiving hundreds of
   requests per second**.
 * Provided **technical leadership** for the engineering team by defining our
   **development workflow** using **agile tools**, as well as our **code
@@ -85,19 +87,23 @@ Contact me at [dave@urth.org](mailto:dave@urth.org).
 
 ### [Thomson Reuters](https://www.reuters.com/) {.resume-sub-heading}
 
-**Consulting Software Engineer, 11/2007 – 4/2011**
+**Consulting Software Engineer, 11/2007 – 4/2011**  
+<small>3 years, 5 months</small>
 
 ### [LiveText, Inc.](https://www.livetext.com/) {.resume-sub-heading}
 
-**Senior Developer, 3/2007 – 11/2007**
+**Senior Developer, 3/2007 – 11/2007**  
+<small>8 months</small>
 
 ### Socialtext, Inc.  {.resume-sub-heading}
 
-**Senior Developer - Database Lead, 9/2004 – 3/2007**
+**Senior Developer - Database Lead, 9/2004 – 3/2007**  
+<small>2 years, 6 months</small>
 
 ### House Absolute Consulting {.resume-sub-heading}
 
-**Sole Proprietor, 2/2002 – 9/2004**
+**Sole Proprietor, 2/2002 – 9/2004**  
+<small>2 years, 7 months</small>
 
 ### Various {.resume-sub-heading}
 
