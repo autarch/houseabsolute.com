@@ -137,8 +137,8 @@ programming jobs?
 * **Tools, Frameworks, and Protocols**: React, Bootstrap, Tailwind, Swagger,
   GraphQL, GRPC
 * **Databases**: Postgres, MySQL, Redis, RDS, AWS
-* **Services and Deployment**: Docker, Kubernetes, Kafka, RabbitMQ,
-  Prometheus, distributed tracing
+* **Operating Systems, Services and Deployment**: Linux, Docker, Kubernetes,
+  Kafka, RabbitMQ, Prometheus, distributed tracing
 * **CI systems**: GitHub Actions, CircleCI, Azure Pipelines, TeamCity, Jenkins
 * **Other**: API design, Database schema design, benchmarking and profiling,
   date and time standards, I18N and L10N, email parsing, Hugo
