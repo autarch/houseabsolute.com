@@ -140,8 +140,9 @@ programming jobs?
 * **Operating Systems, Services and Deployment**: Linux, Docker, Kubernetes,
   Kafka, RabbitMQ, Prometheus, distributed tracing
 * **CI systems**: GitHub Actions, CircleCI, Azure Pipelines, TeamCity, Jenkins
-* **Other**: API design, Database schema design, benchmarking and profiling,
-  date and time standards, I18N and L10N, email parsing, Hugo
+* **Other**: API design, database schema design, documentation writing,
+  benchmarking and profiling, date and time standards, I18N and L10N, email
+  parsing, Hugo
 
 ## Publications and Presentations
 
