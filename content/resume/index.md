@@ -109,15 +109,13 @@ programming jobs?
 ## FOSS Software
 
 * I've created many FOSS projects. Here are a few highlights:
-    * [detest](https://pkg.go.dev/github.com/houseabsolute/detest) is a test
-      assertion library for **Go**.
-    * [omegasort](https://github.com/houseabsolute/omegasort) is a CLI tool
-      for sorting text files written in **Go**.
     * [precious](https://github.com/houseabsolute/precious) is a meta-linting
       code quality tool (a tool to run many linters and prettifiers) in
       **Rust**.
     * [ubi](https://github.com/houseabsolute/ubi) is a tool to install
       single-file binaries from GitHub releases, in **Rust**.
+    * [omegasort](https://github.com/houseabsolute/omegasort) is a CLI tool
+      for sorting text files written in **Go**.
     * I kicked off the **Perl DateTime Project** in the early 2000s, which
       developed a comprehensive suite of interoperating Perl libraries for
       dealing with dates and times. Distributions in the DateTime suite are
@@ -126,6 +124,8 @@ programming jobs?
 * My [houseabsolute GitHub
   organization](https://github.com/houseabsolute?type=source) contains the
   vast majority of my projects.
+* [My crates.io profile](https://crates.io/users/autarch).
+* [My CPAN profile](https://metacpan.org/author/DROLSKY)
 
 ## Skills
 
