@@ -59,7 +59,7 @@ my @vars   = (
     (
         map { ( '-V', $_ ) } (
             'pagesize:letter',
-            'urlcolor:MidnightBlue',
+            'urlcolor:NavyBlue',
             'fontfamily:lato',
             'fontfamilyoptions:default',
             'fontfamilyoptions:defaultsans',
