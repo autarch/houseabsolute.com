@@ -13,6 +13,7 @@ pressing "s" while viewing the slides.**
 * [Introduction to Go][3] - See the linked GitHub repo for instructions on
   downloading and viewing the slides. They require the Go `present` tool to
   view.
+* [Why Do Programmers Love Rust?][18]
 * [Generating Rust from C with Perl][17]
 * [Continuous Integration for Perl with Azure Pipelines][4] - This covers [my
   ci-perl-helpers project][5] and also talks about general Azure Pipelines
@@ -62,3 +63,4 @@ pressing "s" while viewing the slides.**
  [15]: https://presentations.houseabsolute.com/markdent/
  [16]: https://presentations.houseabsolute.com/perl6-basic-oo/
  [17]: https://presentations.houseabsolute.com/rust-from-c-with-perl/
+ [18]: https://presentations.houseabsolute.com/why-do-programmers-love-rust/
