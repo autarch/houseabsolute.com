@@ -10,6 +10,9 @@ Most of my newer slide decks have slides with very minimal content on
 them. **The interesting bits are in the presenter notes, which are accessible by
 pressing "s" while viewing the slides.**
 
+The raw slides are available from [my presentations
+repo](https://github.com/autarch/presentations/).
+
 * [Introduction to Go][3] - See the linked GitHub repo for instructions on
   downloading and viewing the slides. They require the Go `present` tool to
   view.
