@@ -17,10 +17,16 @@ repo](https://github.com/autarch/presentations/).
   downloading and viewing the slides. They require the Go `present` tool to
   view.
 * [Why Do Programmers Love Rust?][18]
+  * Last given at The Perl and Raku Conference 2022
+  * [Watch it on YouTube](https://youtu.be/vEuG2YoJZJw)
 * [Generating Rust from C with Perl][17]
+  * Last given at The Conference in the Cloud 2021
+  * [Watch it on YouTube](https://youtu.be/HBoHv8-TZfk)
 * [Continuous Integration for Perl with Azure Pipelines][4] - This covers [my
   ci-perl-helpers project][5] and also talks about general Azure Pipelines
-  features.
+  features
+  * Last given at The Conference in the Cloud 2020
+  * [Watch it on YouTube](https://youtu.be/OSstr_1C6U0)
 * [Make Your Technical Hiring Process Suck at Least 20% Less][8]
   * My thinking on this has evolved a bit since I last gave this
     presentation. I've written about this a few times on my blog:
@@ -34,14 +40,22 @@ repo](https://github.com/autarch/presentations/).
       Theory](https://blog.urth.org/2016/03/08/tech-interviewer-theory/) -
       This is about interviews specifically, including what you can learn from
       them and some questions to ask during technical interviews.
+  * Last given at The Perl Conference 2018
+  * [Watch it on YouTube](https://youtu.be/-JzgEl782Jg)
 * [Dist::Zilla and My Bundle][10]
+  * Last given at The Conference in the Cloud 2021
+  * [Watch it on YouTube](https://youtu.be/h0Xx-KdAMGk)
 * [Classy Testing with Test::Class::Moose][9]
+  * Last given at The Perl Conference 2019
+  * [Watch it on YouTube](https://youtu.be/VE886jtXgqY)
 * [Stepford, a Thing Sort of Like Make][11]
 * [Basics of Unicode in Perl][12] - I made this to present to my co-workers at
   MaxMind. It's never been given at a conference.
 * [Intro to Object-Oriented Programming in Perl][13] (Perl 5)
 * [A Date with Perl][14] - I've also called this Dates, Times, Perl, and You
   in the past.
+  * Last given at The Perl Conference 2017
+  * [Watch it on YouTube](https://youtu.be/enr5_FoToiA)
 * [Markdent: Event-Driven Markdown Parsing][15]
 * [Tidy All the Things][6] - A presentation on [Tidyall][7], which [I no
   longer recommend
