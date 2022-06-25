@@ -29,12 +29,12 @@ defaultcontentlanguage = "en"
 
 [[params.social]]
     name = "Github"
-    icon = "fab fa-github"
+    icon = "fa fa-2x fa-github"
     weight = 1
     url = "https://github.com/houseabsolute/"
 [[params.social]]
     name = "Email"
-    icon = "fa fa-envelope"
+    icon = "fa fa-2x fa-envelope"
     weight = 2
     url = "mailto:dave@urth.org"
 
