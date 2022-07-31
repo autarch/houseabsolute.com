@@ -42,7 +42,7 @@ $dom->find('.web-only')->each( sub { $_->remove } );
 $dom->find('h1')->first->remove;
 
 my $clean = $content->children->join("\n");
-$clean =~ s{ <i[^>]+class="fab fa-github"[^>]*></i>}{};
+$clean =~ s{ <i[^>]+class="[^"]+"[^>]*></i>}{};
 
 my $t = tempfile( SUFFIX => ".html" );
 $t->spew_utf8($clean);
