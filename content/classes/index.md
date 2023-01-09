@@ -9,20 +9,20 @@ I offer the following classes at conferences, and can be persuaded to come to
 your company and teach them for sufficiently reasonable sums of
 money. [Contact me to discuss this further][1].
 
+<span id="introduction-to-go"></span>
 ## Introduction to Go
 
-There are a few million new languages making buzz on the Internet these days,
-and Go is one of them! Go hits a nice sweet spot between ease of coding, speed
-of execution, and modern features such as type inferencing, concurrency, and a
-minimalist but well-designed OO system.
+Go hits a nice sweet spot between ease of coding, speed of execution, and
+modern features such as type inferencing, concurrency, and a minimalist but
+useful OO system.
 
 In this class, I'll introduce you to Go basics including syntax, the type
 system, OO in Go, packages and package management, and concurrency.
 
 This is a hands-on course. Each lecture section is followed by a hands-on
-exercise section where you put what you've just learned into practice. The
-instructor will work with each student individually as needed to help you get
-the most from these exercises.
+exercise section where you put what you've just learned into practice. I will
+work with each student individually as needed to help you get the most from
+these exercises.
 
 This class is aimed at anyone who wants to learn Go. You must have experience
 programming in at least one other language, but no assumptions are made about
@@ -44,31 +44,31 @@ Here are what some past students of this class have said:
 ### Class Outline
 
   * $GOPATH, Toolchain, and the Ecosystem
-  * From Zero to Code 
+  * From Zero to Code
       * Basic variables, types, and scope
       * Functions
       * Naming
       * If statements
       * Imports
-  * More Types 
+  * More Types
       * Strings, arrays, slices, and maps
       * Type conversion
       * Structs
       * Pointers
-  * More Statements 
+  * More Statements
       * Loops and switch
   * Error Handling
   * Unit Testing with "go test"
-  * Types, Interfaces, and OO in Go 
+  * Types, Interfaces, and OO in Go
       * Methods, Constructors, and Accessors
       * Interfaces
       * Runtime type checking
       * Type assertion and type switch
-  * Concurrency 
+  * Concurrency
       * Goroutines
       * Channels
       * sync.WaitGroup
-  * Go Package Management 
+  * Go Package Management
       * Importing packages
       * go get
       * dep

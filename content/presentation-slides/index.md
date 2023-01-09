@@ -15,7 +15,7 @@ repo](https://github.com/autarch/presentations/).
 
 * [Introduction to Go][3] - See the linked GitHub repo for instructions on
   downloading and viewing the slides. They require the Go `present` tool to
-  view.
+  view. See [the class description][19] for more details.
 * [Why Do Programmers Love Rust?][18]
   * Last given at The Perl and Raku Conference 2022
   * [Watch it on YouTube](https://youtu.be/vEuG2YoJZJw)
@@ -81,3 +81,4 @@ repo](https://github.com/autarch/presentations/).
  [16]: https://presentations.houseabsolute.com/perl6-basic-oo/
  [17]: https://presentations.houseabsolute.com/rust-from-c-with-perl/
  [18]: https://presentations.houseabsolute.com/why-do-programmers-love-rust/
+ [19]: /classes/#introduction-to-go
