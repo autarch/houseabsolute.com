@@ -19,6 +19,7 @@ repo](https://github.com/autarch/presentations/).
 * [Why Do Programmers Love Rust?][18]
   * Last given at The Perl and Raku Conference 2022
   * [Watch it on YouTube](https://youtu.be/vEuG2YoJZJw)
+* [CLI Tools I Use][20]
 * [Generating Rust from C with Perl][17]
   * Last given at The Conference in the Cloud 2021
   * [Watch it on YouTube](https://youtu.be/HBoHv8-TZfk)
@@ -82,3 +83,4 @@ repo](https://github.com/autarch/presentations/).
  [17]: https://presentations.houseabsolute.com/rust-from-c-with-perl/
  [18]: https://presentations.houseabsolute.com/why-do-programmers-love-rust/
  [19]: /classes/#introduction-to-go
+ [20]: https://presentations.houseabsolute.com/cli-tools-i-use/
