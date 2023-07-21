@@ -129,7 +129,7 @@ programming jobs?
   organization](https://github.com/houseabsolute?type=source) contains the
   vast majority of my projects.
 * [My crates.io profile](https://crates.io/users/autarch).
-* [My CPAN profile](https://metacpan.org/author/DROLSKY)
+* [My CPAN profile](https://metacpan.org/author/DROLSKY).
 
 ## Skills
 
