@@ -12,7 +12,8 @@ Here's a handy button for doing that ...
 
 ## Sponsor Me on GitHub
 
-I've set up [my GitHub profile for sponsorship](https://github.com/sponsors/autarch/) if you'd like to do that.
+I've set up [my GitHub profile for sponsorship](https://github.com/sponsors/autarch/) if you'd like
+to do that.
 
 ## Invoice
 
