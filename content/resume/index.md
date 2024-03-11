@@ -27,8 +27,8 @@ Contact me at [dave@urth.org](mailto:dave@urth.org).
 
 **Team Lead, Senior Software Engineer, 2/2017 – 10/2021**
 
-* Led a team providing key **backend services**, including a key **REST API**
-  for our SaaS product's backend, using **Go**, **Swagger**, **Postgres**, and
+* Led a team providing **backend services**, including a key **REST API** for
+  our SaaS product's backend, using **Go**, **Swagger**, **Postgres**, and
   **Kafka**.
 * Built services that ran on **AWS** with **Docker**, **Kubernetes**, and
   **RDS**.
