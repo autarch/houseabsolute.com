@@ -107,7 +107,7 @@ Do you really want to read about my TA position in Music Theory or my first prog
   - I kicked off the **Perl DateTime Project** in the early 2000s, which developed a comprehensive
     suite of interoperating Perl libraries for dealing with dates and times. Distributions in the
     DateTime suite are under the
-    [DateTime namespace on CPAN](https://metacpan.org/search?q=datetime)
+    [DateTime namespace on CPAN](https://metacpan.org/search?q=datetime).
 - My [houseabsolute GitHub organization](https://github.com/houseabsolute?type=source) contains the
   vast majority of my projects.
 - [My crates.io profile](https://crates.io/users/autarch).
