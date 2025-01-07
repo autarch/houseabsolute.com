@@ -103,10 +103,9 @@ Do you really want to read about my TA position in Music Theory or my first prog
   - [ubi](https://github.com/houseabsolute/ubi) is a tool to install single-file binaries from
     GitHub releases, in **Rust**.
   - [omegasort](https://github.com/houseabsolute/omegasort) is a CLI tool for sorting text files
-    written in **Go**.
-  - I kicked off the **Perl DateTime Project** in the early 2000s, which developed a comprehensive
-    suite of interoperating Perl libraries for dealing with dates and times. Distributions in the
-    DateTime suite are under the
+    written in **Rust**.
+  - I kicked off the **Perl DateTime Project** in the early 2000s to create a suite of Perl
+    libraries for dealing with dates and times. See the
     [DateTime namespace on CPAN](https://metacpan.org/search?q=datetime).
 - My [houseabsolute GitHub organization](https://github.com/houseabsolute?type=source) contains the
   vast majority of my projects.
