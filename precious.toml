@@ -6,7 +6,7 @@ exclude = [
 type    = "both"
 include = [ "**/*.md", "**/*.yml" ]
 cmd     = [
-    "./node_modules/.bin/prettier",
+    "prettier",
     "--no-config",
     "--print-width", "100",
     "--prose-wrap", "always",
