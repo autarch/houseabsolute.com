@@ -122,8 +122,8 @@ Perl has some built-in functionality for handling dates and times. This function
   both return arrays containing things like the hour, minute, month, etc., though some of the values
   returned are awkward to use. For example, the year is the actual year minus 1900.</p> The
   [`localtime()`][1] function returns the datetime of your current location, based on your system's
-  time zone setting, while the gmtime function returns the current UTC datetime.
-  The `Time::localtime` and `Time::gmtime` modules provide a thin object layer around `gmtime()` and
+  time zone setting, while the gmtime function returns the current UTC datetime. The
+  `Time::localtime` and `Time::gmtime` modules provide a thin object layer around `gmtime()` and
   [`localtime()`][1] respectively, so you can do things like `print gmtime()->year`. Of course, that
   _still_ prints the year minus 1900.</li>
 - **Time::Local**  
