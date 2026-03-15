@@ -99,14 +99,14 @@ Do you really want to read about my TA position in Music Theory or my first prog
 
 - I've created many FOSS projects. Here are a few highlights:
   - [precious](https://github.com/houseabsolute/precious) is a meta-linting code quality tool (a
-    tool to run many linters and prettifiers) in **Rust**.
+    tool to run many linters and prettifiers) in **Rust**, with 151 GitHub stars.
   - [ubi](https://github.com/houseabsolute/ubi) is a tool to install single-file binaries from
-    GitHub releases, in **Rust**.
+    GitHub releases, in **Rust**, with 553 GitHub stars.
   - [omegasort](https://github.com/houseabsolute/omegasort) is a CLI tool for sorting text files
     written in **Rust**.
   - I kicked off the **Perl DateTime Project** in the early 2000s to create a suite of Perl
-    libraries for dealing with dates and times. See the
-    [DateTime namespace on CPAN](https://metacpan.org/search?q=datetime).
+    libraries for dealing with dates and times, used by thousands of Perl applications around the
+    world. See the [DateTime namespace on CPAN](https://metacpan.org/search?q=datetime).
 - My [houseabsolute GitHub organization](https://github.com/houseabsolute?type=source) contains the
   vast majority of my projects.
 - [My crates.io profile](https://crates.io/users/autarch).
@@ -118,12 +118,12 @@ Do you really want to read about my TA position in Music Theory or my first prog
   development processes, technical hiring and onboarding, design docs, change/rollout planning
 - **Languages**: Go, JavaScript, SQL, Pl/pgSQL, C, Rust, HTML, CSS, Perl (and XS)
 - **Tools, Frameworks, and Protocols**: React, Bootstrap, Tailwind, Swagger, GraphQL, GRPC
-- **Databases**: Postgres, MySQL, Redis, RDS, AWS
-- **Operating Systems, Services and Deployment**: Linux, Docker, Kubernetes, Kafka, RabbitMQ,
-  Prometheus, distributed tracing
+- **Databases**: Postgres, MySQL, Redis
+- **Operating Systems, Services and Deployment**: AWS, Linux, Docker, Kubernetes, RDS, Kafka,
+  RabbitMQ, Prometheus, distributed tracing
 - **CI systems**: GitHub Actions, CircleCI, Azure Pipelines, TeamCity, Jenkins
 - **Other**: API design, database schema design, documentation writing, benchmarking and profiling,
-  date and time standards, I18N and L10N, email parsing, Hugo
+  date and time standards, I18N and L10N, email parsing
 
 ## Publications and Presentations
 
