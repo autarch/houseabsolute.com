@@ -21,7 +21,7 @@ Contact me at [dave@urth.org](mailto:dave@urth.org).
 
 ### [MongoDB](https://www.mongodb.com/) {.resume-sub-heading}
 
-**Senior Software Engineer, 5/2022 - present**
+**Senior Software Engineer, 5/2022 – present**
 
 ### [ActiveState Software Inc.](https://www.activestate.com/) {.resume-sub-heading}
 
@@ -58,7 +58,7 @@ Contact me at [dave@urth.org](mailto:dave@urth.org).
 - Introduced **continuous integration**, initially with **Jenkins** and later with **TeamCity**.
 - **Benchmarked and optimized** the test suite, bringing the run time from nearly an hour to about
   15 minutes.
-- Created a a parallelizable **build system** to implement the entire build process for our line of
+- Created a parallelizable **build system** to implement the entire build process for our line of
   [GeoIP2 databases](https://dev.maxmind.com/geoip/geoip2/downloadable/).
 - Defined and documented the [MaxMind DB file format](https://maxmind.github.io/MaxMind-DB/),
   including writing a comprehensive spec for it, as well as participating in the development of
