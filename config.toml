@@ -7,90 +7,90 @@ languagecode = "en"
 defaultcontentlanguage = "en"
 
 [params]
-    author = "Dave Rolsky"
-    description = "Dave Rolsky's personal website"
-    info = "Resume and Slides"
-    footercontent = '<p xmlns:cc="http://creativecommons.org/ns#" ><a rel="cc:attributionURL" href="https://houseabsolute.com/">This work</a> by <span property="cc:attributionName">David Rolsky</span> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>'
+author = "Dave Rolsky"
+description = "Dave Rolsky's personal website"
+info = "Resume and Slides"
+footercontent = '<p xmlns:cc="http://creativecommons.org/ns#" ><a rel="cc:attributionURL" href="https://houseabsolute.com/">This work</a> by <span property="cc:attributionName">David Rolsky</span> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>'
 
-    dateformat = "January 2, 2006"
+dateformat = "January 2, 2006"
 
-    hideFooter = false
-    hideCredits = false
-    hideCopyright = false
-    since = 2007
+hideFooter = false
+hideCredits = false
+hideCopyright = false
+since = 2007
 
-    rtl = false
+rtl = false
 
-    colorscheme = "auto"
+colorscheme = "auto"
 
-    enableTwemoji = false
+enableTwemoji = false
 
-    custom_css = ["houseabsolute.css"]
+custom_css = ["houseabsolute.css"]
 
 [[params.social]]
-    name = "Github"
-    icon = "fab fa-github"
-    weight = 1
-    url = "https://github.com/houseabsolute/"
+name = "Github"
+icon = "fab fa-github"
+weight = 1
+url = "https://github.com/houseabsolute/"
 [[params.social]]
-    name = "Email"
-    icon = "fa fa-envelope"
-    weight = 2
-    url = "mailto:dave@urth.org"
+name = "Email"
+icon = "fa fa-envelope"
+weight = 2
+url = "mailto:dave@urth.org"
 
 [languages]
-    [languages.en]
-        languagename = "English"
+[languages.en]
+languagename = "English"
 
-        [languages.en.menu]
-            [[languages.en.menu.main]]
-            name = "Home"
-            weight = 1
-            url = "/"
+[languages.en.menu]
+[[languages.en.menu.main]]
+name = "Home"
+weight = 1
+url = "/"
 
-            [[languages.en.menu.main]]
-            name = "Resume"
-            weight = 2
-            url = "/resume/"
+[[languages.en.menu.main]]
+name = "Resume"
+weight = 2
+url = "/resume/"
 
-            [[languages.en.menu.main]]
-            name = "Support My FOSS Work"
-            weight = 3
-            url = "/foss-donations/"
+[[languages.en.menu.main]]
+name = "Support My FOSS Work"
+weight = 3
+url = "/foss-donations/"
 
-            [[languages.en.menu.main]]
-            name = "Slides"
-            weight = 4
-            url = "/presentation-slides/"
+[[languages.en.menu.main]]
+name = "Slides"
+weight = 4
+url = "/presentation-slides/"
 
 # see https://gohugo.io/getting-started/configuration-markup
 [markup]
-  defaultMarkdownHandler = "goldmark"
-  [markup.highlight]
-    anchorLineNos = false
-    codeFences = true
-    guessSyntax = true
-    hl_Lines = ""
-    lineAnchors = ""
-    lineNoStart = 1
-    lineNos = true
-    lineNumbersInTable = true
-    noClasses = true
-    style = "vs"
-    tabWidth = 4
-  [markup.tableOfContents]
-    startLevel = 1
-  [markup.goldmark.extensions]
-    definitionList = true
-    footnote = true
-    linkify = true
-    strikethrough = true
-    table = true
-    taskList = true
-    typographer = true
-  [markup.goldmark.parser]
-    attribute = true
-    autoHeadingID = true
-    autoHeadingIDType = "github"
-  [markup.goldmark.renderer]
-    unsafe = true
+defaultMarkdownHandler = "goldmark"
+[markup.highlight]
+anchorLineNos = false
+codeFences = true
+guessSyntax = true
+hl_Lines = ""
+lineAnchors = ""
+lineNoStart = 1
+lineNos = true
+lineNumbersInTable = true
+noClasses = true
+style = "vs"
+tabWidth = 4
+[markup.tableOfContents]
+startLevel = 1
+[markup.goldmark.extensions]
+definitionList = true
+footnote = true
+linkify = true
+strikethrough = true
+table = true
+taskList = true
+typographer = true
+[markup.goldmark.parser]
+attribute = true
+autoHeadingID = true
+autoHeadingIDType = "github"
+[markup.goldmark.renderer]
+unsafe = true

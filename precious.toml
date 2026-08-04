@@ -1,34 +1,23 @@
-exclude = [
-    "themes/**/*",
-]
+exclude = ["themes/**/*"]
 
-[commands.prettier]
-type    = "both"
-include = [ "**/*.md", "**/*.yml" ]
-cmd     = [
-    "prettier",
-    "--no-config",
-    "--print-width", "100",
-    "--prose-wrap", "always",
-]
-lint_flags = "--check"
-tidy_flags = "--write"
-ok_exit_codes = 0
-lint_failure_exit_codes = 1
-ignore_stderr = [ "Code style issues" ]
+[commands.oxfmt]
+type = "both"
+include = ["**/*.md", "**/*.yml", "**/*.toml"]
+cmd = ["oxfmt"]
+lint-flags = "--check"
+tidy-flags = "--write"
+ok-exit-codes = 0
+lint-failure-exit-codes = 1
 
 [commands.omegasort-gitignore]
 type = "both"
 include = "**/.gitignore"
-cmd = [ "omegasort", "--sort", "path", "--unique" ]
+cmd = ["omegasort", "--sort", "path", "--unique"]
 lint_flags = "--check"
 tidy_flags = "--in-place"
 ok_exit_codes = 0
 lint_failure_exit_codes = 1
-ignore_stderr = [
-    "The .+ file is not sorted",
-    "The .+ file is not unique",
-]
+ignore_stderr = ["The .+ file is not sorted", "The .+ file is not unique"]
 
 [commands.typos]
 type = "lint"
